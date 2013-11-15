@@ -1,0 +1,4442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tiendas>
+  <tienda>
+    <nombre>weplay</nombre>
+    <local>282</local>
+    <telefono>+56 225860371</telefono>
+    <sector>Ampliacion</sector>
+    <nivel></nivel>
+    <nodo>n2_k</nodo>
+    <referencia_plano>2</referencia_plano>
+    <piso>2</piso>
+    <tags>tecnologia,video juegos,consolas,pc</tags>
+    <categorias>Computación y Electrónica</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Computacion y electronica&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Computacion y electronica</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/logo_weplay.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Alfombras Dib</nombre>
+    <local>2021</local>
+    <telefono>+56 2 25860472</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>2</referencia_plano>
+    <piso>2</piso>
+    <tags>alfombra</tags>
+    <categorias>Hogar y Regalos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Alfombras&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Alfombras</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/dib.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>the republic of beauty</nombre>
+    <local>2097/2101/2105</local>
+    <telefono>+56 2 27860325</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n2_d</nodo>
+    <referencia_plano>2</referencia_plano>
+    <piso>2</piso>
+    <tags>cosmeticos,pinturas,Cosmeticos Femeninos</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Cosmeticos Femeninos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Cosmeticos Femeninos</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/logo_trob.png</logo>
+  </tienda>
+  <tienda>
+    <nombre>Gotta</nombre>
+    <local>2126</local>
+    <telefono> +56 2 25860345</telefono>
+    <sector>pasillo central</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>2</referencia_plano>
+    <piso>2</piso>
+    <tags>Zapatos femeninos,botas,botines,calzado de fiesta,calzado formal</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calzado Femenino&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calzado Femenino</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/images.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>BIANCOLATTE</nombre>
+    <local>2230- 2230b- 2234</local>
+    <telefono>+56  25860575             </telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_l</nodo>
+    <referencia_plano>155</referencia_plano>
+    <piso>2</piso>
+    <tags>heladería,helados,cafe</tags>
+    <categorias>Cafeterías y Heladerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Helader&amp;iacute;a y cafeter&amp;iacute;a&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Helader&amp;iacute;a y cafeter&amp;iacute;a</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	10:00 am hasta 21:30 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/logo-biancolatte.png</logo>
+  </tienda>
+  <tienda>
+    <nombre>SAMSUNG</nombre>
+    <local> 1737</local>
+    <telefono>+56 25860355</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_r</nodo>
+    <referencia_plano>117</referencia_plano>
+    <piso>1</piso>
+    <tags>tecnología,celulares,tablet,equipos</tags>
+    <categorias>Telefonía</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Venta de equipos tecnol&amp;oacute;gicos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Venta de equipos tecnol&amp;oacute;gicos</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	10:00 am hasta 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/samsung.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>HUSH PUPPIES</nombre>
+    <local>1108-1112</local>
+    <telefono>+56 25860405</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>17</referencia_plano>
+    <piso>1</piso>
+    <tags>calzado,calzado femenino,calzado masculino</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Venta de calzado femenino y masculino sport y formal.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Venta de calzado femenino y masculino sport y formal.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	10:00 am hasta 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/hush puppies.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Entel</nombre>
+    <local>Blvd exterior</local>
+    <telefono>+56 2 5860381</telefono>
+    <sector>bulevar exterior</sector>
+    <nivel></nivel>
+    <nodo>n1_u</nodo>
+    <referencia_plano>156</referencia_plano>
+    <piso>1</piso>
+    <tags>Celulares,servicio técnico celulares,venta equipo celulares</tags>
+    <categorias>Telefonía</categorias>
+    <descripcion></descripcion>
+    <descripcionlimpia></descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/logo-entel.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Dublin</nombre>
+    <local>Terrazas</local>
+    <telefono>+56 2 5860544</telefono>
+    <sector>Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>Pub,restaurante,entretención,Terrazas</tags>
+    <categorias>Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pub restaurante&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pub restaurante</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a domingo 12:00 a 03:00 am.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/imagescarfg7vj.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banco Ripley</nombre>
+    <local>1201</local>
+    <telefono>+56 2 23516304</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n1_a</nodo>
+    <referencia_plano>1201</referencia_plano>
+    <piso>1</piso>
+    <tags>banco</tags>
+    <categorias>Bancos</categorias>
+    <descripcion></descripcion>
+    <descripcionlimpia></descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	9:00 a 20:00 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/logo_ripley.gif</logo>
+  </tienda>
+  <tienda>
+    <nombre>Nike</nombre>
+    <local>2232-2234-2238-2242-2246-2250</local>
+    <telefono>+56 2 5860351</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano>249 </referencia_plano>
+    <piso>1</piso>
+    <tags>deporte,artículos deportivos,zapatillas,ropa deportiva,accesorios deportivos</tags>
+    <categorias>Deporte</categorias>
+    <descripcion></descripcion>
+    <descripcionlimpia></descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/nike-logo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banco Santander</nombre>
+    <local>BP 116-120-124-128-132-134-136</local>
+    <telefono>+56 2 6488061</telefono>
+    <sector>Bulevard Financiero</sector>
+    <nivel></nivel>
+    <nodo>n1_w</nodo>
+    <referencia_plano>124</referencia_plano>
+    <piso>1</piso>
+    <tags>bancos,banco</tags>
+    <categorias>Bancos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Horario de atenci&amp;oacute;n: de 9:00 a 14:00 horas&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Horario de atenci&amp;oacute;n: de 9:00 a 14:00 horas</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes de 9:00 a 14:00 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/santander.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Baum</nombre>
+    <local></local>
+    <telefono></telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>farmacias</tags>
+    <categorias>Farmacias</categorias>
+    <descripcion></descripcion>
+    <descripcionlimpia></descripcionlimpia>
+    <horario></horario>
+    <logo></logo>
+  </tienda>
+  <tienda>
+    <nombre>Real Kicks</nombre>
+    <local>2313 - 2317</local>
+    <telefono>+56 2 5860439</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>252</referencia_plano>
+    <piso>2</piso>
+    <tags>Zapatillas</tags>
+    <categorias>Calzado Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Zapatillas&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Zapatillas</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/realkicks.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Savory Local 3</nombre>
+    <local>2177</local>
+    <telefono>+56 2 5860365</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n2_a</nodo>
+    <referencia_plano>186</referencia_plano>
+    <piso>2</piso>
+    <tags>helados,gelatería,medias lunas</tags>
+    <categorias>Cafeterías y Heladerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Savory&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Savory</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/savorystop.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Savory Stop</nombre>
+    <local>2015</local>
+    <telefono>5807756</telefono>
+    <sector>Patio comidas</sector>
+    <nivel></nivel>
+    <nodo>n2_g</nodo>
+    <referencia_plano>226</referencia_plano>
+    <piso>2</piso>
+    <tags>helados,gelatería</tags>
+    <categorias>Cafeterías y Heladerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Savory&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Savory</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/savorystop.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bravíssimo Local 3</nombre>
+    <local>2081 - 2085 - 2089</local>
+    <telefono>+56 2 5860326</telefono>
+    <sector>Plaza central </sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>33</referencia_plano>
+    <piso>2</piso>
+    <tags>Gelatería,helados,pasteles,tortas</tags>
+    <categorias>Cafeterías y Heladerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Brav&amp;iacute;ssimo Gelater&amp;iacute;a&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Brav&amp;iacute;ssimo Gelater&amp;iacute;a</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bravíssimo Local 2</nombre>
+    <local>1004</local>
+    <telefono>+56 2 5807838</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>1004</referencia_plano>
+    <piso>1</piso>
+    <tags>gelatería,helados,pasteles</tags>
+    <categorias>Cafeterías y Heladerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Brav&amp;iacute;ssimo Gelater&amp;iacute;a&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Brav&amp;iacute;ssimo Gelater&amp;iacute;a</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Secret</nombre>
+    <local>2121 - 2125</local>
+    <telefono>+56 2 29634582</telefono>
+    <sector>Plaza central </sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>42</referencia_plano>
+    <piso>2</piso>
+    <tags>marroquinería,carteras</tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Variedad en carteras&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Variedad en carteras</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/secret.png</logo>
+  </tienda>
+  <tienda>
+    <nombre>Microplay</nombre>
+    <local>2026-2030</local>
+    <telefono>95858101</telefono>
+    <sector>Plaza Paris</sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>115</referencia_plano>
+    <piso>2</piso>
+    <tags>juegos,computación</tags>
+    <categorias>Computación y Electrónica,Entretención y Cultura</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Juegos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Juegos</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/topn3_r1_c1.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Fortaleza</nombre>
+    <local>AP 113</local>
+    <telefono>56 2 25965057</telefono>
+    <sector>Autoplaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>135</referencia_plano>
+    <piso>0</piso>
+    <tags>Automotora,automotriz</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion></descripcion>
+    <descripcionlimpia></descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/fortaleza.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Alfombras DIB</nombre>
+    <local>2021</local>
+    <telefono>+56 2 25860472</telefono>
+    <sector>Plaza Paris</sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>221</referencia_plano>
+    <piso>2</piso>
+    <tags>Alfombras</tags>
+    <categorias>Hogar y Regalos,Muebles</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	D&amp;eacute;jate sorprender y descubre nuestras colecciones de alfombras, productos para pisos, textil para el hogar y muebles.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	D&amp;eacute;jate sorprender y descubre nuestras colecciones de alfombras, productos para pisos, textil para el hogar y muebles.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/alfombras dib.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Thomas</nombre>
+    <local>P 2298</local>
+    <telefono>+56 2 25860352</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_k</nodo>
+    <referencia_plano>247</referencia_plano>
+    <piso>2</piso>
+    <tags>ropa formal de hombre,trajes europeos,novios</tags>
+    <categorias>Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Trajes Europeos exclusivos, lanas de alta calidad. Camisas entalladas en algod&amp;oacute;n y seda, zapatos italianos. Todo para los novios y hombres que buscan la exclusividad y modernidad.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Trajes Europeos exclusivos, lanas de alta calidad. Camisas entalladas en algod&amp;oacute;n y seda, zapatos italianos. Todo para los novios y hombres que buscan la exclusividad y modernidad.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/thomas1.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Minimarket Trujillo</nombre>
+    <local>BL 0113</local>
+    <telefono>58017842</telefono>
+    <sector>Bulevard de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>189</referencia_plano>
+    <piso>0</piso>
+    <tags></tags>
+    <categorias>Minimarket</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Minimarket&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Minimarket</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/generico_tiendas_listado.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Tronwell</nombre>
+    <local>BL 126 - 130 - 134 - 138 - 142</local>
+    <telefono>+56 2 25659167</telefono>
+    <sector>Bulevard Financiero</sector>
+    <nivel></nivel>
+    <nodo>n1_w</nodo>
+    <referencia_plano>210</referencia_plano>
+    <piso>1</piso>
+    <tags></tags>
+    <categorias>Educación</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Escuela de idiomas&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Escuela de idiomas</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes de 7:45 a 21:15 horas&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	S&amp;aacute;bado de 10:00 a 13:00 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/logo_pie2.gif</logo>
+  </tienda>
+  <tienda>
+    <nombre>The Republic of Beauty</nombre>
+    <local>2097-2101-2105</local>
+    <telefono>+56 2 5860325</telefono>
+    <sector>Plaza central</sector>
+    <nivel></nivel>
+    <nodo>n2_c</nodo>
+    <referencia_plano>89</referencia_plano>
+    <piso>2</piso>
+    <tags>accesorios,maquillaje</tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Accesorios femeninos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Accesorios femeninos</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/logo_trob.png</logo>
+  </tienda>
+  <tienda>
+    <nombre>We Love Shoes</nombre>
+    <local>1281 - 1285</local>
+    <telefono>+56 2 25860333</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_s</nodo>
+    <referencia_plano>35</referencia_plano>
+    <piso>1</piso>
+    <tags>Calzado Femenino,Accesorios</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	We Love Shoes es el especialista en calzado y accesorios femeninos. Cuenta con una gran variedad de modelos de marcas de renombre en el rubro, como Hush Puppies, Cat, Merrel, Nine West, Azaleia, Sanuk, Cushe y Rockford entre otras.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	&amp;nbsp;&#13;
+&#13;
+	We Love Shoes es el especialista en calzado y accesorios femeninos. Cuenta con una gran variedad de modelos de marcas de renombre en el rubro, como Hush Puppies, Cat, Merrel, Nine West, Azaleia, Sanuk, Cushe y Rockford entre otras.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/welovesshoes.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>George</nombre>
+    <local>TE 112</local>
+    <telefono>09 - 6600-4437</telefono>
+    <sector>Las Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_m</nodo>
+    <referencia_plano>237</referencia_plano>
+    <piso>1</piso>
+    <tags>Bar,Restaurant,Centro de Eventos,terrazas</tags>
+    <categorias>Restaurantes</categorias>
+    <descripcion>&lt;p&gt;Centro de Eventos, Bar y Restaurant.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>Centro de Eventos, Bar y Restaurant.</descripcionlimpia>
+    <horario>&lt;p&gt;Lunes a Jueves de 12:00 a 24:00 hrs&lt;/p&gt;&lt;p&gt;Viernes, Sabado y Domingo 11:00 a 01:00 am.&amp;nbsp;&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/george.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>DOT MIX</nombre>
+    <local>TE 100-01-02</local>
+    <telefono>+56 (02) 2586-0533</telefono>
+    <sector>Las Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_k</nodo>
+    <referencia_plano>273</referencia_plano>
+    <piso>1</piso>
+    <tags>Discoteque,Pub</tags>
+    <categorias>Entretención y Cultura</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Discoteque - Pub&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Discoteque - Pub</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Dias Viernes y Sabado desde las 23:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/dot club.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>CMR Automotriz</nombre>
+    <local></local>
+    <telefono>+56 (02) 26845-4260</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>60</referencia_plano>
+    <piso>0</piso>
+    <tags>Créditos Automotrices</tags>
+    <categorias>Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Cr&amp;eacute;ditos Automotrices.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Cr&amp;eacute;ditos Automotrices.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 20:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/cmr automotriz.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>La Polar</nombre>
+    <local></local>
+    <telefono>+56 2 5800300</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>126</referencia_plano>
+    <piso>1</piso>
+    <tags>Multitienda,Tiendas Departamentales</tags>
+    <categorias>Tiendas Departamentales</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tiendas Departamentales&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tiendas Departamentales</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes de 11:00 a 21:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Lapolar.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banco ITAU</nombre>
+    <local>B. FINANCIERO</local>
+    <telefono>+56 2 26860000</telefono>
+    <sector>B. FINANCIERO</sector>
+    <nivel></nivel>
+    <nodo>n1_w</nodo>
+    <referencia_plano>18</referencia_plano>
+    <piso>1</piso>
+    <tags>Banco</tags>
+    <categorias>Bancos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Banco&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Banco</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes de 09:00 a 14:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Itau.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banco Falabella</nombre>
+    <local>1120 / 24</local>
+    <telefono>25860323</telefono>
+    <sector>Plaza Central</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>17</referencia_plano>
+    <piso>1</piso>
+    <tags>Banco</tags>
+    <categorias>Bancos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Banco&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Banco</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/BancoFalabella.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banco de Chile</nombre>
+    <local>BP 100</local>
+    <telefono>24680696 </telefono>
+    <sector>B. FINANCIERO</sector>
+    <nivel></nivel>
+    <nodo>n1_w</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>Banco</tags>
+    <categorias>Bancos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Banco&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Banco</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes de 09:00 a 14:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/bchile.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banco BCI</nombre>
+    <local>2154</local>
+    <telefono>23837781</telefono>
+    <sector>Pasillo Ripley</sector>
+    <nivel></nivel>
+    <nodo>n2_a</nodo>
+    <referencia_plano>14</referencia_plano>
+    <piso>2</piso>
+    <tags>Banco</tags>
+    <categorias>Bancos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Banco&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Banco</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes 09:00 a 14:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/BCI.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banco BBVA</nombre>
+    <local>BP 196/200/04/08</local>
+    <telefono>26638525</telefono>
+    <sector>B. FINANCIERO</sector>
+    <nivel></nivel>
+    <nodo>n1_x</nodo>
+    <referencia_plano>13</referencia_plano>
+    <piso>1</piso>
+    <tags>Banco</tags>
+    <categorias>Bancos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Banco&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Banco</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Viernes de 09:00 a 14:00 horas&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/BBVA-logo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bamers</nombre>
+    <local>1137 / 41</local>
+    <telefono>76959914</telefono>
+    <sector>Plaza Paris</sector>
+    <nivel></nivel>
+    <nodo>n1_g</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags></tags>
+    <categorias>Calzado Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calzado&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calzado</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/bamers.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>AL FUEGO</nombre>
+    <local>TE 100 </local>
+    <telefono>25860500</telefono>
+    <sector>Las Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_k</nodo>
+    <referencia_plano>10</referencia_plano>
+    <piso>1</piso>
+    <tags>Restaurante,terrazas</tags>
+    <categorias>Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Restaurante&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Restaurante</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo desde las 12:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>YOUSERV</nombre>
+    <local>2114 - 2118</local>
+    <telefono>+56 2 25860518</telefono>
+    <sector>Pasillo Ripley</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>41</referencia_plano>
+    <piso>2</piso>
+    <tags>Heladeria</tags>
+    <categorias>Cafeterías y Heladerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Helader&amp;iacute;a&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Helader&amp;iacute;a</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 a 21:30 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/youserv.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>7veinte</nombre>
+    <local>P2329 - 2333 </local>
+    <telefono>+ 562 2 596 04 16</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_i</nodo>
+    <referencia_plano>182</referencia_plano>
+    <piso>2</piso>
+    <tags>Burton,dakine,anon,gravis,lifesytle,surf,skate,snowboard</tags>
+    <categorias>Vestuario Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tienda &amp;nbsp;dedicada a la comercializacion de prendas deportivas tales como skate, surf, snowboard. Marcas internacionales.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tienda &amp;nbsp;dedicada a la comercializacion de prendas deportivas tales como skate, surf, snowboard. Marcas internacionales.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lunes a Domingo de 10:00 hrs a 21:30 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/7viente.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Yukids</nombre>
+    <local>2334-2338</local>
+    <telefono>5807781</telefono>
+    <sector>Ampliacion</sector>
+    <nivel></nivel>
+    <nodo>n2_i</nodo>
+    <referencia_plano>220</referencia_plano>
+    <piso>2</piso>
+    <tags>Nestle,Vital,Nescafé,Guallarauco,Evercrip,Juegos infantiles y cafeteria</tags>
+    <categorias>Entretención y Cultura</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Yukids&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Yukids</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Yukids.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Yogen Fruz</nombre>
+    <local>2002-06</local>
+    <telefono>5860486</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_g</nodo>
+    <referencia_plano>219</referencia_plano>
+    <piso>2</piso>
+    <tags>Yogen Fruz,Helados de fruta natural,yoguth,manjar</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Yogen Fruz&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Yogen Fruz</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/YogenFruz.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Xtreme</nombre>
+    <local>2153-57a</local>
+    <telefono>5860590</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>333</referencia_plano>
+    <piso>2</piso>
+    <tags>Xtreme,Maletas,candados,bolsos,carteras,mochila</tags>
+    <categorias>Maletería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Xtreme&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Xtreme</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/xtremesaxoline.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Wado´s</nombre>
+    <local>1113-29</local>
+    <telefono>5860485</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_d</nodo>
+    <referencia_plano>217</referencia_plano>
+    <piso>1</piso>
+    <tags>Wado´s,Jeans,poleras,chaquetas,billeteras,faldas,vestidos</tags>
+    <categorias>Vestuario Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Wado&amp;acute;s&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Wado&amp;acute;s</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Wados.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Vtr</nombre>
+    <local>bs1072-1076-1080-1084-1088-1092</local>
+    <telefono>4598485</telefono>
+    <sector>Ampliacion</sector>
+    <nivel></nivel>
+    <nodo>n1_u</nodo>
+    <referencia_plano>231</referencia_plano>
+    <piso>1</piso>
+    <tags>Vtr,Telefonia,cable e internet</tags>
+    <categorias>Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Vtr&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Vtr</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/vtr_gr.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Vía Uno</nombre>
+    <local>1040</local>
+    <telefono>5860483</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>215</referencia_plano>
+    <piso>1</piso>
+    <tags>Vía Uno,Variedad de zapatos de mujer</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	V&amp;iacute;a Uno&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	V&amp;iacute;a Uno</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/viauno_gr.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Vans</nombre>
+    <local>2254-2258</local>
+    <telefono>5807758</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_k</nodo>
+    <referencia_plano>214</referencia_plano>
+    <piso>2</piso>
+    <tags>Vans,Zapatillas hombre,mujer,niño</tags>
+    <categorias>Calzado Juvenil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Vans&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Vans</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Vans.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Umbrale</nombre>
+    <local>P 1345a 1349a</local>
+    <telefono>5860329</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_p</nodo>
+    <referencia_plano>212</referencia_plano>
+    <piso>1</piso>
+    <tags>Umbrale,Faldas,Pantalones casual,bruzones,collares,pañuelos</tags>
+    <categorias>Vestuario Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Umbrale&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Umbrale</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/umbrale.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>TurBus</nombre>
+    <local>B-5a</local>
+    <telefono>27215463</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>211</referencia_plano>
+    <piso>1</piso>
+    <tags>TurBus,Viajes destinos de Chile</tags>
+    <categorias>Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	TurBus&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	TurBus</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Turbus.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Trial</nombre>
+    <local>1313-1317</local>
+    <telefono>5807777</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>209</referencia_plano>
+    <piso>1</piso>
+    <tags>Trial y Jockey,Sleep,Corbatas,Trajes formales,Camisa,Sweater</tags>
+    <categorias>Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Trial&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Trial</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Trial.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Doce Treinta y Cuatro</nombre>
+    <local>2146  2150</local>
+    <telefono>5860588</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_a</nodo>
+    <referencia_plano>207</referencia_plano>
+    <piso>2</piso>
+    <tags>Casio,G-Shock,Orent,Cacharel,Nautica,Relojeria</tags>
+    <categorias>Joyerías y Relojerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Doce Trinta y Cuatro&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Doce Trinta y Cuatro</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/1234.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Traumatec</nombre>
+    <local>B-4b</local>
+    <telefono>5860479</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>206</referencia_plano>
+    <piso>1</piso>
+    <tags>Blunding,Global,Ibici,Medizinal,Calcetines de cobre,medias antivarices,conchones ortopedicos,cojines</tags>
+    <categorias>Farmacias</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Traumatec&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Traumatec</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Traumatec.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>T'quila</nombre>
+    <local>1088</local>
+    <telefono>5860470</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>205</referencia_plano>
+    <piso>1</piso>
+    <tags>T'quila,Destilados,platos preparados,tablas,bebidas,jugos,las terrazas</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	T&amp;#39;quila&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	T&amp;#39;quila</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Desde las 10:00 horas.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/pantone-tquila-04.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Toy Planet</nombre>
+    <local>P 2290 2286</local>
+    <telefono>+56 2 5860569</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>204</referencia_plano>
+    <piso>2</piso>
+    <tags>Toy Planet,Matel,Ansaldo,Disney,Infanti</tags>
+    <categorias>Juguetería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Toy Planet&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Toy Planet</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/toyplanet1.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Todomoda</nombre>
+    <local>1180</local>
+    <telefono>5860432</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_a</nodo>
+    <referencia_plano>203</referencia_plano>
+    <piso>1</piso>
+    <tags>Todomoda,Pañuelos,cartelas,aros,pinches,collares</tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Todomoda&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Todomoda</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Todomoda.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Todo Piel</nombre>
+    <local>2046</local>
+    <telefono>5860474</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>202</referencia_plano>
+    <piso>2</piso>
+    <tags>Todo Piel,Calzado mujer formal,informal,fiesta,descanso</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Todo Piel&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Todo Piel</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Todopiel.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Tobacco Store</nombre>
+    <local>B-7</local>
+    <telefono>5860473</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>201</referencia_plano>
+    <piso>1</piso>
+    <tags>Tobacco Store,Confites,bebidas,Encendedores,snack,cigarros</tags>
+    <categorias>Minimarket</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tobacco Store&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tobacco Store</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/tobacco.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>The Line</nombre>
+    <local></local>
+    <telefono>5860520</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>200</referencia_plano>
+    <piso>2</piso>
+    <tags>The Line,Play Station 3,CD,Articulos de computacion,PC,Wii</tags>
+    <categorias>Computación y Electrónica</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	The Line&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	The Line</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Theline.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Telepizza</nombre>
+    <local>d-16</local>
+    <telefono>5807821-22</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>199</referencia_plano>
+    <piso>2</piso>
+    <tags>Telepizza,Variedad de pizzas,bebida,burritos</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Telepizza&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Telepizza</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Telepizza.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Teletrak</nombre>
+    <local>Bl 102a 106a 141 145-149</local>
+    <telefono>5807809</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>198</referencia_plano>
+    <piso>0</piso>
+    <tags>Teletrak,Transnision de ventas de apuestas</tags>
+    <categorias>Entretención y Cultura</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Teletrak&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Teletrak</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Teletrak.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Tarragona</nombre>
+    <local>4</local>
+    <telefono>5860452</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>197</referencia_plano>
+    <piso>2</piso>
+    <tags>Tarragona,Empanadas,Fajitas,bebidas,pollo,papas fritas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tarragona&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tarragona</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Tarragona.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Suzuki</nombre>
+    <local>AP-107</local>
+    <telefono>7211466</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>180</referencia_plano>
+    <piso>0</piso>
+    <tags>Suzuki,celerio,sx4,alto,gran nomade,gran vitara</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Suzuki&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Suzuki</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/suzuki.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Sushi House</nombre>
+    <local>108</local>
+    <telefono>5860555</telefono>
+    <sector>Las Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano>195</referencia_plano>
+    <piso>1</piso>
+    <tags>Sushi House,Sushi y bebestibles,las terrazas</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Sushi House&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Sushi House</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/sushihouse.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Subway</nombre>
+    <local>2009</local>
+    <telefono>s/n</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>194</referencia_plano>
+    <piso>2</piso>
+    <tags>Subway,Sandwich,bebidas,papas fritas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Subway&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Subway</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/subway.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Sparta</nombre>
+    <local>2066-70</local>
+    <telefono>7211348</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_d</nodo>
+    <referencia_plano>193</referencia_plano>
+    <piso>2</piso>
+    <tags>Puma,Reebok,Adidas,Nike,Skechers,Balones,camisetas futbol Maquinas de ejercicios,buzos,zapatillas</tags>
+    <categorias>Deporte</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Sparta&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Sparta</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Sparta.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Skechers</nombre>
+    <local>2098-2102-06</local>
+    <telefono>5860598-99</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_c</nodo>
+    <referencia_plano>192</referencia_plano>
+    <piso>2</piso>
+    <tags>Skechers,Calcetin,zapatillas,zapato,hawuallanas</tags>
+    <categorias>Calzado Femenino,Calzado Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Skechers&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Skechers</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/sckechers.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Shoes &amp; Piel</nombre>
+    <local>1028-32</local>
+    <telefono>5860468</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_g</nodo>
+    <referencia_plano>191</referencia_plano>
+    <piso>1</piso>
+    <tags>Bron doss,Blaquisblack,Pro-rewind,Erase,Maxmo,Zapatos formal,vestir,casual,zapatillas,descanso</tags>
+    <categorias>Calzado Femenino,Calzado Infantil,Calzado Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Shoes &amp;amp; Piel&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Shoes &amp;amp; Piel</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Shoesandpiel.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Servipag</nombre>
+    <local>BL 185-181-177</local>
+    <telefono>6006201010</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>190</referencia_plano>
+    <piso>0</piso>
+    <tags>Servipag,Pago de cuentas,retiro y cobro  de cheques,pago isp,recargas celular y tarjetas bip</tags>
+    <categorias>Bancos,Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Servipag&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Servipag</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 20:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Servipag.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Sencillito</nombre>
+    <local>BL 0113</local>
+    <telefono>5807842</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>189</referencia_plano>
+    <piso>0</piso>
+    <tags>Sencillito,Pago de cuentas</tags>
+    <categorias>Bancos,Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Sencillito&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Sencillito</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom 09:30 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/sencillito.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Schop Dog</nombre>
+    <local>1100</local>
+    <telefono>7212161</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_e</nodo>
+    <referencia_plano>188</referencia_plano>
+    <piso>1</piso>
+    <tags>Schop Dog,Completos,platos preparados,cerverza,tablas,las terrazas,ensaladas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Schop Dog&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Schop Dog</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/shopdog.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Saxoline</nombre>
+    <local>1105</local>
+    <telefono>5860465</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_e</nodo>
+    <referencia_plano>187</referencia_plano>
+    <piso>1</piso>
+    <tags>Saxoline,Head,Maletas,candados,bolsos,carteras,mochila</tags>
+    <categorias>Maletería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Saxoline&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Saxoline</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/saxoline.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Savory Local 2</nombre>
+    <local>2057</local>
+    <telefono>+56 2 5860464</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>250</referencia_plano>
+    <piso>2</piso>
+    <tags>Savory,Heladeria,medias luna,bebidas,jugos</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Savory&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Savory</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Savory.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Sapira</nombre>
+    <local>B 11a</local>
+    <telefono>7211317</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>185</referencia_plano>
+    <piso>1</piso>
+    <tags>Sapira,Confites,bebidas,café,snack</tags>
+    <categorias>Minimarket</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Sapira&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Sapira</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Rockford</nombre>
+    <local>1044-48</local>
+    <telefono>7211292</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>184</referencia_plano>
+    <piso>1</piso>
+    <tags>Cat,Merrel,Columbia,Sebago,Pantalones,poleras,gorros,billeteras,zapatillas</tags>
+    <categorias>Vestuario Femenino,Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Rockford&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Rockford</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Rockford.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Ripley</nombre>
+    <local></local>
+    <telefono>5105621</telefono>
+    <sector>Pasillo 3 y 5</sector>
+    <nivel></nivel>
+    <nodo>n1_a</nodo>
+    <referencia_plano>183</referencia_plano>
+    <piso>1</piso>
+    <tags>Ripley,Pepe Jeans,Reebok,Saxoline,Samsung,Everlast</tags>
+    <categorias>Computación y Electrónica,Deporte</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Ripley&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Ripley</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 11:00 a 21:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Ripley.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Revive</nombre>
+    <local>H-1</local>
+    <telefono>+56 2 4960265</telefono>
+    <sector>interior Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>Revive,Comida chile,jugos,bebidas,snack</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Revive&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Revive</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/revive1.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Renault Derco</nombre>
+    <local>AP 105</local>
+    <telefono>7211352</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>266</referencia_plano>
+    <piso>0</piso>
+    <tags></tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Veh&amp;iacute;culos a tu medida, lo mejor en maquinaria, repuestos y accesorios y la mayor red de distribuci&amp;oacute;n a lo largo de Chile.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Veh&amp;iacute;culos a tu medida, lo mejor en maquinaria, repuestos y accesorios y la mayor red de distribuci&amp;oacute;n a lo largo de Chile.</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/renault.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Reebok</nombre>
+    <local>2065-2069-2073-2077</local>
+    <telefono>5860353</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>179</referencia_plano>
+    <piso>2</piso>
+    <tags>Reebok,Buzos,poleras,zapatillas,bolsos</tags>
+    <categorias>Vestuario Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Reebok&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Reebok</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Reebok.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Registro Civil</nombre>
+    <local>BL 165-161-157-153-106</local>
+    <telefono>5807750</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>178</referencia_plano>
+    <piso>0</piso>
+    <tags></tags>
+    <categorias>Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	No logramos atencion&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	No logramos atencion</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Vie de 08:30 a 14:00 hrs Sab de 10:00 a 15:00 hrs&lt;/p&gt;</horario>
+    <logo></logo>
+  </tienda>
+  <tienda>
+    <nombre>Pre-Unic</nombre>
+    <local>1153-57</local>
+    <telefono>+562 5807843</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>177</referencia_plano>
+    <piso>1</piso>
+    <tags>Pre-Unic,Articulos hogar,cremas,shampoo,esmalte,detergente</tags>
+    <categorias>Hogar y Regalos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pre-Unic&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pre-Unic</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/preunic.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Potros</nombre>
+    <local>1149</local>
+    <telefono>586 05 45</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>176</referencia_plano>
+    <piso>1</piso>
+    <tags>Potros,Cinturones,chalecos,camisas,poleras piqué,pantalon</tags>
+    <categorias>Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Potros&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Potros</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Potros.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Pollini</nombre>
+    <local>P 1321 1325</local>
+    <telefono>5860574</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>175</referencia_plano>
+    <piso>1</piso>
+    <tags>Pollini,16 hrs,Bruno Rossi,Polini,Panama Jack</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pollini&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pollini</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/pollini.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Polemic</nombre>
+    <local></local>
+    <telefono>5807804</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_k</nodo>
+    <referencia_plano>174</referencia_plano>
+    <piso>2</piso>
+    <tags>Polemic,Short,poleras,skate,accesorios eskate,poleron,zapatillas</tags>
+    <categorias>Accesorios Masculinos,Vestuario Femenino,Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Polemic&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Polemic</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Polemic.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Poeme</nombre>
+    <local>1053</local>
+    <telefono>5863676</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>173</referencia_plano>
+    <piso>1</piso>
+    <tags>Poeme,Botas,botines,chalas,calzado formal,zapatillas</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Poeme&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Poeme</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Poeme.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Platón</nombre>
+    <local>9</local>
+    <telefono>5860450</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>172</referencia_plano>
+    <piso>2</piso>
+    <tags>Platón,Platos preparados,bebidas,jugos,postre</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Plat&amp;oacute;n&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Plat&amp;oacute;n</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Platon.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Pizza Hut</nombre>
+    <local>8</local>
+    <telefono>5860447</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>171</referencia_plano>
+    <piso>2</piso>
+    <tags>Pizza Hut,Pizza,burritos,bebida,papas fritas,empanadas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pizza Hut&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pizza Hut</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/pizzahut.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Pivadiva</nombre>
+    <local>P2278</local>
+    <telefono>5860411</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>246</referencia_plano>
+    <piso>2</piso>
+    <tags>Pivadiva,Carteras,pañuelos,aros,pinches,estuches,collares</tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pivadiva&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pivadiva</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Pivadiva.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Piola</nombre>
+    <local>TE 104</local>
+    <telefono>5860360</telefono>
+    <sector>Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano>271</referencia_plano>
+    <piso>1</piso>
+    <tags>Piola,Pizzas variedad,jugos bebidas,destilados,las terrazas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Piola&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Piola</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom desde las11:00 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Piola.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Pillin</nombre>
+    <local>1145</local>
+    <telefono>5807826</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>170</referencia_plano>
+    <piso>1</piso>
+    <tags>Pillin,Zapatos,cinturones,pantalon,polera,chalecos</tags>
+    <categorias>Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pillin&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pillin</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/pillin.JPG</logo>
+  </tienda>
+  <tienda>
+    <nombre>Perfúmame</nombre>
+    <local>P 1355</local>
+    <telefono>5860471</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_p</nodo>
+    <referencia_plano>169</referencia_plano>
+    <piso>1</piso>
+    <tags>Perfúmame,Perfumes hombre y mujer,cremas</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	Tienda de perfumes&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	&amp;nbsp;&#13;
+&#13;
+	Tienda de perfumes</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/perfumame.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Peluquería Palumbo</nombre>
+    <local>1000</local>
+    <telefono>8622313</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>168</referencia_plano>
+    <piso>1</piso>
+    <tags>Peluquería Palumbo,Kerastase,Loreal,Belleza capilar,Redken</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Peluquer&amp;iacute;a Palumbo&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Peluquer&amp;iacute;a Palumbo</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/palumbo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Pedro Juan &amp; Diego</nombre>
+    <local></local>
+    <telefono>5807845</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>167</referencia_plano>
+    <piso>2</piso>
+    <tags>Pedro Juan &amp; Diego,Sanwicheria,bebidas,jugos</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pedro Juan &amp;amp; Diego&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pedro Juan &amp;amp; Diego</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/PedroJuandiego.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>PcFactory</nombre>
+    <local>1177</local>
+    <telefono>5600150</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>166</referencia_plano>
+    <piso>1</piso>
+    <tags>accesorios computacionales,notebook,computadores</tags>
+    <categorias>Computación y Electrónica</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tu centro tecnol&amp;oacute;gico&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tu centro tecnol&amp;oacute;gico</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/pc factory.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Patuelli</nombre>
+    <local>2310-2314-2318-2322</local>
+    <telefono>5807760</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_i</nodo>
+    <referencia_plano>146</referencia_plano>
+    <piso>2</piso>
+    <tags>Patuelli,Fila,Puma,Nike,Adidas,Reebook</tags>
+    <categorias>Calzado Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Patuelli&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Patuelli</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Patuelli.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Paris</nombre>
+    <local></local>
+    <telefono>3369275</telefono>
+    <sector>Pasillo 2 y 4</sector>
+    <nivel></nivel>
+    <nodo>n1_ñ</nodo>
+    <referencia_plano>163</referencia_plano>
+    <piso>1</piso>
+    <tags>Paris,Panasonic,Toshiba,AOC,Sony,Samsung</tags>
+    <categorias>Computación y Electrónica,Hogar y Regalos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Paris&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Paris</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 11:00 a 21:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Paris.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Osito</nombre>
+    <local>1036</local>
+    <telefono>5807799</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>162</referencia_plano>
+    <piso>2</piso>
+    <tags>Osito,Calzado niño y niña</tags>
+    <categorias>Calzado Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Osito&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Osito</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/osito.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Opticas Schilling</nombre>
+    <local>2010-2014</local>
+    <telefono>5860442</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>161</referencia_plano>
+    <piso>2</piso>
+    <tags>Opticas Schilling,Davison,Montini,Skechers,Police</tags>
+    <categorias>Óptica y Perfumería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Opticas Schilling&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Opticas Schilling</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasshilling.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Opticas Rotter &amp; Krauss</nombre>
+    <local>1073-74</local>
+    <telefono>5860439</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>160</referencia_plano>
+    <piso>1</piso>
+    <tags>Opticas Rotter &amp; Krauss,Cat,Chanel,Arnette,Gucci,Calvin Klein</tags>
+    <categorias>Óptica y Perfumería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Opticas Rotter &amp;amp; Krauss&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Opticas Rotter &amp;amp; Krauss</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/rotterkrauss.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Opticas Place Vendome</nombre>
+    <local>1329-1333</local>
+    <telefono>7517219</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>159</referencia_plano>
+    <piso>1</piso>
+    <tags>Opticas Place Vendome,Arizona,Hugo Boss,Adidas,Bollé,Arnette</tags>
+    <categorias>Óptica y Perfumería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Opticas Place Vendome&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Opticas Place Vendome</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/OPV.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Opticas GMO</nombre>
+    <local>1128</local>
+    <telefono>7211397</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>158</referencia_plano>
+    <piso>1</piso>
+    <tags>Opticas GMO,D YG,Raplph,Pepe Jeans,Toscani,Amchi</tags>
+    <categorias>Óptica y Perfumería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Opticas GMO&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Opticas GMO</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/ogmo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Opaline</nombre>
+    <local>2090-94</local>
+    <telefono>5860566</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_c</nodo>
+    <referencia_plano>157</referencia_plano>
+    <piso>2</piso>
+    <tags>Opaline,Tutos,ositos,zapatos,buzos,gorros</tags>
+    <categorias>Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Opaline&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Opaline</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Opaline.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Ok Market</nombre>
+    <local>1040-1044-1048-1052-1056</local>
+    <telefono>5698746</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_u</nodo>
+    <referencia_plano>156</referencia_plano>
+    <piso>1</piso>
+    <tags>Ok Market,Confites,bebidas,café,snack</tags>
+    <categorias>Minimarket</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Miinimarket&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Miinimarket</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/okmarket.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Oakley</nombre>
+    <local>2269</local>
+    <telefono>5860321</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_l</nodo>
+    <referencia_plano>155</referencia_plano>
+    <piso>2</piso>
+    <tags>Oakley,Lentes,ropa deportiva,gorros,billeteras,botellas agua</tags>
+    <categorias>Deporte</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Oakley&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Oakley</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/oakley.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Notaria Bertolino</nombre>
+    <local>BP-164-168</local>
+    <telefono>5860475</telefono>
+    <sector>Bulevard Financiero Exterior</sector>
+    <nivel></nivel>
+    <nodo>n1_w</nodo>
+    <referencia_plano>154</referencia_plano>
+    <piso>1</piso>
+    <tags></tags>
+    <categorias>Servicios</categorias>
+    <descripcion></descripcion>
+    <descripcionlimpia></descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Vie 09:30 a 18:30 Sab 10:30 a 13:30 hrs.&lt;/p&gt;</horario>
+    <logo></logo>
+  </tienda>
+  <tienda>
+    <nombre>NRG</nombre>
+    <local>1140</local>
+    <telefono>5860557</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>152</referencia_plano>
+    <piso>1</piso>
+    <tags>NRG,Poleras,vestidos,calzas,pantalones,sweater</tags>
+    <categorias>Vestuario Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	NRG&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	NRG</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/nrgenergy.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Nextel</nombre>
+    <local>BS 1120 BS 1124</local>
+    <telefono>6741518</telefono>
+    <sector>Ampliación Exterior</sector>
+    <nivel></nivel>
+    <nodo>n1_t</nodo>
+    <referencia_plano>151</referencia_plano>
+    <piso>2</piso>
+    <tags>Nextel,Telefonía</tags>
+    <categorias>Módulos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Nextel&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Nextel</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Nextel.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Naturalizer</nombre>
+    <local>P1341</local>
+    <telefono>5860408</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>150</referencia_plano>
+    <piso>1</piso>
+    <tags>Naturalizer,Calzado femenino para toda ocasión</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Naturalizer&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Naturalizer</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Naturalizer.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Mrs. Shoes</nombre>
+    <local>BL-169</local>
+    <telefono>97995175</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>149</referencia_plano>
+    <piso>0</piso>
+    <tags>Mrs Shoes,zapato formal,para ocasión,informal</tags>
+    <categorias>Calzado Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Mrs. Shoes&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Mrs. Shoes</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	BL-169&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/MrsShoes.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Movistar</nombre>
+    <local>bs 1104/1100</local>
+    <telefono>s/n</telefono>
+    <sector>Ampliación Exterior</sector>
+    <nivel></nivel>
+    <nodo>n1_u</nodo>
+    <referencia_plano>230</referencia_plano>
+    <piso>1</piso>
+    <tags>Movistar,Telefonìa fija,cable,telefonia movil,internet,internet portatil</tags>
+    <categorias>Telefonía</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Movistar&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Movistar</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Movistar 1.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Motostar</nombre>
+    <local></local>
+    <telefono>580 77 57</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>196</referencia_plano>
+    <piso>0</piso>
+    <tags></tags>
+    <categorias>Autoplaza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	No se encuentra&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	No se encuentra</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo></logo>
+  </tienda>
+  <tienda>
+    <nombre>Mónix</nombre>
+    <local>2141</local>
+    <telefono>5860510</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>147</referencia_plano>
+    <piso>2</piso>
+    <tags></tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	M&amp;oacute;nix&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	M&amp;oacute;nix</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Monix.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Monarch</nombre>
+    <local>1173</local>
+    <telefono>580 77 73</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>145</referencia_plano>
+    <piso>1</piso>
+    <tags>Monarch,Pijamas,sosten,calzon,medias,calcetines</tags>
+    <categorias>Lencería y Ropa Interior</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Monarch&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Monarch</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Monarch.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Moletto</nombre>
+    <local>1161</local>
+    <telefono>5860430</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>144</referencia_plano>
+    <piso>1</piso>
+    <tags>Moletto,Calcetines,medias,pantys,camisetas</tags>
+    <categorias>Vestuario Femenino,Vestuario Infantil,Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Moletto&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Moletto</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Moletto.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Mokka</nombre>
+    <local>1357</local>
+    <telefono>s/n</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_p</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>Mokka,Café,pasteleria,sandwicheria,jugos,bebidas</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Mokka&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Mokka</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Mokka.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Mixtura</nombre>
+    <local>110 110 120</local>
+    <telefono>5860533</telefono>
+    <sector>Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano>272</referencia_plano>
+    <piso>1</piso>
+    <tags>Mixtura,Tablas,tragos,bebidas,platos preparados,bajativos,las terrazas</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Pub. Restaurant&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Pub. Restaurant</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom desde las 11:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Mixtura.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Mi Foto</nombre>
+    <local>B 4A</local>
+    <telefono>5860414</telefono>
+    <sector>Bulevar Lider</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>143</referencia_plano>
+    <piso>1</piso>
+    <tags>Mi Foto,Rebelados de foto,marcos,albumes</tags>
+    <categorias>Música, Fotografía y Películas</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Mi Foto&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Mi Foto</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Mifoto (2).jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Mc Donald's</nombre>
+    <local>d-17</local>
+    <telefono>7211252</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>142</referencia_plano>
+    <piso>2</piso>
+    <tags>Mc Donald's,Hambuerguesas,empanadas,Bebidas,Jugos,papas fritas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Mc Donald&amp;#39;s&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Mc Donald&amp;#39;s</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/macdonalds.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Max Point</nombre>
+    <local>104</local>
+    <telefono>9-3377336</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>270</referencia_plano>
+    <piso>1</piso>
+    <tags>Max Point,Confites,bebidas,café,snack</tags>
+    <categorias>Módulos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Max Point&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Max Point</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/MaxPoint.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Maui</nombre>
+    <local></local>
+    <telefono>5860586</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_s</nodo>
+    <referencia_plano>140</referencia_plano>
+    <piso>1</piso>
+    <tags>Maui,Trajes de surf,tablas de surf,chaquetas polerones,poleras</tags>
+    <categorias>Vestuario Femenino,Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Maui and Sons&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Maui and Sons</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/maui.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Matthew</nombre>
+    <local>2034-38</local>
+    <telefono>5860425</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>139</referencia_plano>
+    <piso>2</piso>
+    <tags>Matthew,Trajes formales,chaquetas de cuero,sombreros,cartelas,bluzas</tags>
+    <categorias>Vestuario Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Matthew&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Matthew</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Matthew.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Mamut</nombre>
+    <local>1076-84</local>
+    <telefono>5860424</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_e</nodo>
+    <referencia_plano>138</referencia_plano>
+    <piso>1</piso>
+    <tags>Mamut,Carnes,platos preparados,tablas para picar,jugos naturales,tragos,las terrazas</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Restaurante, caf&amp;egrave;,y bar&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Restaurante, caf&amp;egrave;,y bar</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/mamut.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Make Up</nombre>
+    <local>P 1337</local>
+    <telefono>7150421</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>136</referencia_plano>
+    <piso>1</piso>
+    <tags>Loreal,Maybelline,Revlon,Petricio,Pamela Grant,Labial,Ojos Uñas,Rostro,Set de maquillaje,Cremas</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Maquiilaje Facial&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Maquiilaje Facial</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Makeupexpress.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Mahindra</nombre>
+    <local>Ap 109-110</local>
+    <telefono>5965059  5965058</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>135</referencia_plano>
+    <piso>0</piso>
+    <tags>Mahindra,Cabina simple y cabina doble</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Automotora Mahindra&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Automotora Mahindra</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Mahindra.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>MacOnline</nombre>
+    <local></local>
+    <telefono>5623832</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_i</nodo>
+    <referencia_plano>134</referencia_plano>
+    <piso>2</piso>
+    <tags>Apple,Notebook,Tablet,I-PAD,aplicaciones para marca Apple</tags>
+    <categorias>Computación y Electrónica</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	MacOnline&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	MacOnline</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Maconline.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Los Heroes</nombre>
+    <local>172-176-180-184</local>
+    <telefono>96456177</telefono>
+    <sector>Bulevard de servicios</sector>
+    <nivel></nivel>
+    <nodo>n1_w</nodo>
+    <referencia_plano>133</referencia_plano>
+    <piso>1</piso>
+    <tags>Los Heroes,Afiliaciones,entretencion,cultura,ahorro,certificados</tags>
+    <categorias>Módulos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Caja de compensaci&amp;oacute;n&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Caja de compensaci&amp;oacute;n</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	lun a vier de 09:00 a 18:00&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/losheroes.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Long Cheung</nombre>
+    <local>TE 118</local>
+    <telefono>5807797</telefono>
+    <sector>Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_m</nodo>
+    <referencia_plano>243</referencia_plano>
+    <piso>1</piso>
+    <tags>Long Cheung,Platos preparados,bebidas,jugos,aperitivos,comidas empresa,las terrazas</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Restaurant Long Cheung&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Restaurant Long Cheung</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom desde las 11:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/LongCheung.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Limonada</nombre>
+    <local>2137</local>
+    <telefono>5860558</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>131</referencia_plano>
+    <piso>2</piso>
+    <tags>Limonada,Sombrillas,Vestidos,Voleros,Shorts,Poleras</tags>
+    <categorias>Accesorios Infantiles,Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tendencia infantil femenina&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tendencia infantil femenina</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Limonada.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Lider</nombre>
+    <local></local>
+    <telefono>4960200</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_o</nodo>
+    <referencia_plano>130</referencia_plano>
+    <piso>1</piso>
+    <tags>Miraflores,Chef,Trisol,Banquete,Natura,Aseo hogar,cuidado personal,carniceria,panaderia,reposteria</tags>
+    <categorias>Alimentos y Bebidas</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Lider&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Lider</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Lider.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Librería Nacional</nombre>
+    <local>1017-21</local>
+    <telefono>7211455</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>129</referencia_plano>
+    <piso>1</piso>
+    <tags>Torre,Proarte,Artel,Bic,Equalit,Resma,lapices,carpetas,centas adhesivas,cuadernos</tags>
+    <categorias>Libros y Revistas</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Librer&amp;iacute;a Nacional&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Librer&amp;iacute;a Nacional</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/LibreriaNacional.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Lavaseco 5a Sec</nombre>
+    <local>B-3</local>
+    <telefono>5860348</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>128</referencia_plano>
+    <piso>1</piso>
+    <tags>Lavaseco 5a Sec,Lavado y secado de veston,vestidos de fiesta,plumones,pantalones,abrigos</tags>
+    <categorias>Módulos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Lavado en Seco&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Lavado en Seco</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Lavaseco5asec.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>La Portada II</nombre>
+    <local>B-13</local>
+    <telefono>5860419</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>127</referencia_plano>
+    <piso>1</piso>
+    <tags>Duracell,Maxell,GSM,Head Set,Fujitel,Pilas,relojes de pared,relojes de muñeca,baterias,controles</tags>
+    <categorias>Joyerías y Relojerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Relojeria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Relojeria</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/laportadali.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>La Araucana</nombre>
+    <local>Bp 156 160</local>
+    <telefono>5860444</telefono>
+    <sector>Bulevar Financiero Exterior</sector>
+    <nivel></nivel>
+    <nodo>n1_w</nodo>
+    <referencia_plano>236</referencia_plano>
+    <piso>1</piso>
+    <tags>La Araucana,Afiliación,creditos consumo,hipotecarios,cuentas de ahorro,certificados</tags>
+    <categorias>Módulos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Caja de compensaci&amp;oacute;n&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Caja de compensaci&amp;oacute;n</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Jue de 09:00 a 17:30 hrs. Vie de 09:00 a 15:00 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Laaraucana.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Kicks</nombre>
+    <local></local>
+    <telefono>5860439</telefono>
+    <sector>Ampliacion</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>252</referencia_plano>
+    <piso>2</piso>
+    <tags>Vans,Supra,Nike,Jordan,Puma,Zapatillas,gorros,bolsos,billeteras,jockey</tags>
+    <categorias>Accesorios Masculinos,Calzado Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	www.kicks.cl&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	www.kicks.cl</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/kicks.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Kia</nombre>
+    <local>AP 104</local>
+    <telefono>5860412</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>125</referencia_plano>
+    <piso>0</piso>
+    <tags>Morning,rio 3,rio 5,rio 4,Carens</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	No hay recepcion&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	No hay recepcion</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/KiaMotors.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Kentucky Friend Chicken</nombre>
+    <local>D6a</local>
+    <telefono>9795978</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>124</referencia_plano>
+    <piso>2</piso>
+    <tags>Kentucky Friend Chicken</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Comida rapida&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Comida rapida</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/KentuchyFriedChicken.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Keeway</nombre>
+    <local>AP 113</local>
+    <telefono>5965050</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>123</referencia_plano>
+    <piso>0</piso>
+    <tags></tags>
+    <categorias>Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Your way&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Your way</descripcionlimpia>
+    <horario></horario>
+    <logo></logo>
+  </tienda>
+  <tienda>
+    <nombre>Kayser</nombre>
+    <local>2157b</local>
+    <telefono>5860582</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>122</referencia_plano>
+    <piso>1</piso>
+    <tags>Kayser,Pijamas,boxer,sosten calzon,Camiseta</tags>
+    <categorias>Lencería y Ropa Interior</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Prendas Intimas&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Prendas Intimas</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/KAyser.JPG</logo>
+  </tienda>
+  <tienda>
+    <nombre>Juan Maestro</nombre>
+    <local>D-14</local>
+    <telefono>580 7824-580 7825</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>121</referencia_plano>
+    <piso>2</piso>
+    <tags>Juan Maestro,Ensaladas,Jugo,bebidas,sandwich,papas fritas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Sandwicher&amp;iacute;a&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Sandwicher&amp;iacute;a</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Juan Masestro.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Joyas Barón</nombre>
+    <local>1152</local>
+    <telefono>5860407</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>120</referencia_plano>
+    <piso>1</piso>
+    <tags>Joyas Barón,Pendientes,prendedores,relojes,anillos,pulseras</tags>
+    <categorias>Joyerías y Relojerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Joyeria y relojeria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Joyeria y relojeria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/joyasbaron.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>JJO</nombre>
+    <local>P2273 - 2277</local>
+    <telefono>5860327</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>119</referencia_plano>
+    <piso>1</piso>
+    <tags>JJO,Jeans,poleras,billeteras,gorros,cinturones</tags>
+    <categorias>Vestuario Juvenil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Moda juvenil&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Moda juvenil</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/JJO.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Isadora</nombre>
+    <local>2109 2113</local>
+    <telefono>5860400</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>118</referencia_plano>
+    <piso>2</piso>
+    <tags>Isadora,Pañuelos,cartelas,aros,pinches,collares</tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;Isadora&lt;/p&gt;</descripcion>
+    <descripcionlimpia>Isadora</descripcionlimpia>
+    <horario>&lt;p&gt;Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Isadora.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Io</nombre>
+    <local>1097</local>
+    <telefono>3989810</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_r</nodo>
+    <referencia_plano>117</referencia_plano>
+    <piso>1</piso>
+    <tags>IO,Pantalones,bleazer,bluzas,vestido,falda</tags>
+    <categorias>Vestuario Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	IO&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	IO</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/io.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Integramedica</nombre>
+    <local></local>
+    <telefono>6366666</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>Dental,Laboratorio,Imagenologia,especialidades,atencion general</tags>
+    <categorias>Salud</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Centro Integramedica&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Centro Integramedica</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/integramedica.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Intersalon</nombre>
+    <local>1165</local>
+    <telefono>5807828</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>114</referencia_plano>
+    <piso>1</piso>
+    <tags>Lakine,Neo extension,Eurostil,Finger paint,Extensiones,cepillos,alisadoras,aceites capilares,shampoo</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Gran venta aniversario 60 a&amp;ntilde;os&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Gran venta aniversario 60 a&amp;ntilde;os</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Intersalon.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Imagen</nombre>
+    <local>2061</local>
+    <telefono>5860525</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>113</referencia_plano>
+    <piso>2</piso>
+    <tags>Imagen,Poleras,voleros,pantalones,calzas,blusas</tags>
+    <categorias>Vestuario Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Moda Juvenil&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Moda Juvenil</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Imagen.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Hyundai</nombre>
+    <local>AP 111-112-113</local>
+    <telefono>56 2 5963902</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>112</referencia_plano>
+    <piso>0</piso>
+    <tags>Hyundai</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Hyundai&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Hyundai</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Hyundai.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Hush Puppies Kids</nombre>
+    <local>1081</local>
+    <telefono>5860404</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>111</referencia_plano>
+    <piso>1</piso>
+    <tags>Hush Puppies Kids,Pantalon,camisa,zapato,gorros,zapatillas</tags>
+    <categorias>Calzado Infantil,Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Hush Puppies Kids&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Hush Puppies Kids</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/HusPuppiesKids.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Hush Puppies</nombre>
+    <local>1108-16</local>
+    <telefono>5860405</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_d</nodo>
+    <referencia_plano>110</referencia_plano>
+    <piso>1</piso>
+    <tags>Hush Puppies,zapato hombre,zapato mujer,calcetines,accesorios,chalas</tags>
+    <categorias>Calzado Femenino,Calzado Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Hush Puppies&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Hush Puppies</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/HushPuppies.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Huellas Spa</nombre>
+    <local>BL 133-137</local>
+    <telefono>5860596</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>109</referencia_plano>
+    <piso>0</piso>
+    <tags>Aelfeet,Eupfree,Opi,Depilevee,Levinia,spa,manos,uñas,pies,depilación</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	spa-manos-u&amp;ntilde;as.pies&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	spa-manos-u&amp;ntilde;as.pies</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:30 a 21:00 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/HuellasSpa.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Home and Cook</nombre>
+    <local></local>
+    <telefono>5807763</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_r</nodo>
+    <referencia_plano>108</referencia_plano>
+    <piso>1</piso>
+    <tags>Moulinex,Rowenta,T-FAL,Cafetera,ollas,vatidora,juguera,tostador</tags>
+    <categorias>Hogar y Regalos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Home and Cook&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Home and Cook</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/HomeandCook.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Homecenter Sodimac</nombre>
+    <local></local>
+    <telefono>+56 28272600</telefono>
+    <sector>Bulevar Sodimac</sector>
+    <nivel></nivel>
+    <nodo>n1_h</nodo>
+    <referencia_plano>107</referencia_plano>
+    <piso>1</piso>
+    <tags>Black and decker,Melón,Ceresita,Tricolor,muebleria,luminaria,material construccion,plantas,terraza</tags>
+    <categorias>Vivienda y Construcción</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Materiales de construccion&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Materiales de construccion</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Sodimac.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Helados San Francisco de Loncomilla</nombre>
+    <local>P 1277</local>
+    <telefono>5860350</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_r</nodo>
+    <referencia_plano>105</referencia_plano>
+    <piso>1</piso>
+    <tags>Helados San Francisco de Loncomilla,Copas,helados,café</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Heladeria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Heladeria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/HeladosSanFrancisco.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Head</nombre>
+    <local></local>
+    <telefono>5807751</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano>104</referencia_plano>
+    <piso>1</piso>
+    <tags>Head,Saxoline,Maletas,candados,bolsos,carteras,mochila</tags>
+    <categorias>Maletería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Maleteria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Maleteria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/head.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Happyland</nombre>
+    <local>2000</local>
+    <telefono>5860390</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>103</referencia_plano>
+    <piso>2</piso>
+    <tags>Happyland,Fichas juego,premios,bebidas,agua mineral,jugos</tags>
+    <categorias>Entretención y Cultura</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Diversion para toda la familia&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Diversion para toda la familia</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Happyland.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Guante</nombre>
+    <local>P 1324 1328A</local>
+    <telefono>5860507</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_p</nodo>
+    <referencia_plano>102</referencia_plano>
+    <piso>1</piso>
+    <tags>Guante,Calzado formal,de vestir,tipo zapatillas</tags>
+    <categorias>Calzado Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calzado Masculino&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calzado Masculino</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/guante.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Grido</nombre>
+    <local>8b - 9a</local>
+    <telefono>5807832</telefono>
+    <sector>Bulevar Lider</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>Grido,Helados,bebidas,confites,copas,jugo</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Heladeria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Heladeria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/grido.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Gema</nombre>
+    <local>P 2294</local>
+    <telefono>76991495</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>245</referencia_plano>
+    <piso>2</piso>
+    <tags>Gema,camiseta,calzon,pantaletas,sosten,reductoras</tags>
+    <categorias>Lencería y Ropa Interior</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Prendas Intimas&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Prendas Intimas</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Gema.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Gacel</nombre>
+    <local>P 1332 1328B</local>
+    <telefono>5860392</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_p</nodo>
+    <referencia_plano>99</referencia_plano>
+    <piso>1</piso>
+    <tags>Gacel,Cartelas,zapatos,pastas de zapatos,botines,accesorosi</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tendencias&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tendencias</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Gacel.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Fritz</nombre>
+    <local>2</local>
+    <telefono>7211246</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>2</piso>
+    <tags>Fritz,Sanwich,jugos bebidas,cerveza,papas fritas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>Sandwichería</descripcion>
+    <descripcionlimpia>Sandwichería</descripcionlimpia>
+    <horario>Lun a Dom de 10:00 a 22:30 hrs</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Fritz.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Forum Servicios Financieros</nombre>
+    <local>AP 115</local>
+    <telefono>5860385-88</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>96</referencia_plano>
+    <piso>0</piso>
+    <tags>Forum,Servicios bancarios</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Servicios financieros&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Servicios financieros</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Forum.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Florezen</nombre>
+    <local>B - b6</local>
+    <telefono>580 7814</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>95</referencia_plano>
+    <piso>1</piso>
+    <tags>Lorezen,Rosas,tarjetas,peluches,porta retratos,arreglos florales</tags>
+    <categorias>Florería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Floristeria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Floristeria</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Florezen.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Flores</nombre>
+    <local>2149</local>
+    <telefono>5860383</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n1_r</nodo>
+    <referencia_plano>1309</referencia_plano>
+    <piso>1</piso>
+    <tags>Flores,Sostèn,calzon,reductoras,camiseta,pantaleta</tags>
+    <categorias>Lencería y Ropa Interior</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Lenceria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Lenceria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Flores.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Ficcus</nombre>
+    <local>2041-45</local>
+    <telefono>5860578</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>93</referencia_plano>
+    <piso>2</piso>
+    <tags>Ficcus,Ositos,Pijamas,Calcetines,Pañales de tela,Buzos</tags>
+    <categorias>Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Moda Infantil&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Moda Infantil</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/FICCUS.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Ferracini</nombre>
+    <local>2337-2341-2345</local>
+    <telefono>5807779</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_i</nodo>
+    <referencia_plano>91</referencia_plano>
+    <piso>2</piso>
+    <tags>Lady Ventury,mininas,Andrea Rosseti,Cangaroos,Via Marte,Botas,Botines,Calzado de fiesta,Calzado formal,Plantillas</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calzados Ferracini&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calzados Ferracini</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/ferracini.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Ferouch</nombre>
+    <local>1113-21</local>
+    <telefono>+56 2 7211022</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_d</nodo>
+    <referencia_plano>90</referencia_plano>
+    <piso>1</piso>
+    <tags>ropa de hombre</tags>
+    <categorias>Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Vestuario y Calzado masculino.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Vestuario y Calzado masculino.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/ferouch.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Farmacias SalcoBrand</nombre>
+    <local>1005</local>
+    <telefono>7211500</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>88</referencia_plano>
+    <piso>1</piso>
+    <tags>Neutrogena,Nido,Huggies,Pampers,Babysec,Leche,Productos maternales,medicamentos,insumos,pañales</tags>
+    <categorias>Farmacias</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Salcobrand&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Salcobrand</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 09:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/salco.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Farmacias Cruz Verde</nombre>
+    <local>1193</local>
+    <telefono>5860367</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_a</nodo>
+    <referencia_plano>86</referencia_plano>
+    <piso>1</piso>
+    <tags>Laboratorio Chile,Colgate,Isdin,Loreal,La Roche Posa,Cremas,medicamentos,vitaminas,cuidado personal,pañales</tags>
+    <categorias>Farmacias</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Cruz Verde&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Cruz Verde</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/cruzverde.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Farmacias Baum</nombre>
+    <local>B-12</local>
+    <telefono>5863538</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>85</referencia_plano>
+    <piso>1</piso>
+    <tags>productos naturales,Medicamentos ansioliticos,para insomnio,transito lento,varices,ulceras</tags>
+    <categorias>Farmacias</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Farmacia Natural&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Farmacia Natural</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/FarmaciasBaum.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Farmacias Ahumada</nombre>
+    <local>n/c</local>
+    <telefono>+56 2 6313369</telefono>
+    <sector>interior Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>130</referencia_plano>
+    <piso>1</piso>
+    <tags>Fasa,LabChile,Eucerin,Neutrogena,Nuk,Medicamentos,cremas,mamaderas,pastas dentales,gasas</tags>
+    <categorias>Farmacias</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Farmacias Ahumada&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Farmacias Ahumada</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Farmacias Ahumada.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Family Shop</nombre>
+    <local>1025-29</local>
+    <telefono>5860366</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_g</nodo>
+    <referencia_plano>83</referencia_plano>
+    <piso>1</piso>
+    <tags>Marca propia</tags>
+    <categorias>Vestuario Juvenil,Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Vestuario para toda la Familia&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Vestuario para toda la Familia</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/familyshop.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Falabella</nombre>
+    <local></local>
+    <telefono>3802500</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n1_d</nodo>
+    <referencia_plano>82</referencia_plano>
+    <piso>1</piso>
+    <tags>AOC,Sony,Panasonic,Samsung,Electronica,menaje,vesturio,deporte,jugueteria</tags>
+    <categorias>Computación y Electrónica,Vestuario Juvenil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Falabella&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Falabella</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 11:00 a 21:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Falabella.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Epk</nombre>
+    <local>p 1316 1320</local>
+    <telefono>5860395/5860396</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>81</referencia_plano>
+    <piso>1</piso>
+    <tags>Epk,gorros,vestidos,camisa,pantalon,chaqueta</tags>
+    <categorias>Accesorios Infantiles,Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Moda Infantil&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Moda Infantil</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/epk.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Energy Fitness</nombre>
+    <local>2158</local>
+    <telefono>5860455</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>79</referencia_plano>
+    <piso>2</piso>
+    <tags>Energy Fitness,clases personales,personal training,clases dirigidas,uso de pesas y maquinarias</tags>
+    <categorias>Deporte</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Ponte en forma&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Ponte en forma</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/EnergyFitness.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>El baúl de la Abuela</nombre>
+    <local>2011</local>
+    <telefono>25860363</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_g</nodo>
+    <referencia_plano>78</referencia_plano>
+    <piso>2</piso>
+    <tags>El baúl de la Abuela,Fotografias personal o mas,marcos de foto</tags>
+    <categorias>Música, Fotografía y Películas</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Fotografia a la Antigua&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Fotografia a la Antigua</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/elBauldelaabuela.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Dunkin Donut's</nombre>
+    <local>1001</local>
+    <telefono>25860361</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>76</referencia_plano>
+    <piso>1</piso>
+    <tags>Dunkin Donut's,Donuts and late</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Donuts and late&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Donuts and late</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/DunkinDonuts.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Domino</nombre>
+    <local>D-11</local>
+    <telefono>6004110600</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>75</referencia_plano>
+    <piso>2</piso>
+    <tags>Domino,Sanwich,completo,jugos naturales,bebidas,platos preparados</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Domino&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Domino</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/domino.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Dulce Luna</nombre>
+    <local></local>
+    <telefono>25860369</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_i</nodo>
+    <referencia_plano>74</referencia_plano>
+    <piso>2</piso>
+    <tags>Ronneferdt,Illy,Minuto verde,dulce luna,medias luna,tortas,café y te variedades</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Especialista en medias luna&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Especialista en medias luna</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/deli cafe.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Doggis</nombre>
+    <local>3</local>
+    <telefono>27211248</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>72</referencia_plano>
+    <piso>2</piso>
+    <tags>Doggis,Completos,salchipapas,papas fritas,helado,empanadas</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Doggis&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Doggis</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Doggis.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Do It</nombre>
+    <local>2142</local>
+    <telefono>27190013</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>71</referencia_plano>
+    <piso>2</piso>
+    <tags>Do It,Aros,Coyar,Pulsera,Carteras,Pinches</tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Accesorios y complementos de vestir&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Accesorios y complementos de vestir</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/doit.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Disworld</nombre>
+    <local>2129</local>
+    <telefono>25860357</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_c</nodo>
+    <referencia_plano>70</referencia_plano>
+    <piso>2</piso>
+    <tags>Disworld,mochilas,es tuches,jarros jugo,plasticina,peluches</tags>
+    <categorias>Juguetería</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Jugueteria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Jugueteria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/disworld.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>De Togni</nombre>
+    <local>2018-22</local>
+    <telefono>25860347</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>68</referencia_plano>
+    <piso>2</piso>
+    <tags>De Togni,Variedad de calzado para todas las edades</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calzado Femenino&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calzado Femenino</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Detogni.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>D'leite</nombre>
+    <local>2001</local>
+    <telefono>25807820</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>67</referencia_plano>
+    <piso>2</piso>
+    <tags>D'leite,Helado,copas,bebidas,jugo,café</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Heladeria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Heladeria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Dleite.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Dbs</nombre>
+    <local>1097 1101</local>
+    <telefono>s/n</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>6</referencia_plano>
+    <piso>1</piso>
+    <tags>Opi,Timebalm,Chanaglaze,Peter Thomas,Too Faced,Esmalte uñas,labiales,maquillaje,perfumes,cremas</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Beauty Store&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Beauty Store</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/DBS.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Daily</nombre>
+    <local>P2278</local>
+    <telefono>25869532</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>251</referencia_plano>
+    <piso>2</piso>
+    <tags>Daily,medias,camisetas y pantys</tags>
+    <categorias>Lencería y Ropa Interior</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Venta de medias, camisetas y pantys&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Venta de medias, camisetas y pantys</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Daily.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Cotys</nombre>
+    <local>1085</local>
+    <telefono>24286955</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>66</referencia_plano>
+    <piso>1</piso>
+    <tags>Coty's,Camisa de dormir,sosten,calzon,camiseta,fajas</tags>
+    <categorias>Lencería y Ropa Interior</categorias>
+    <descripcion>&lt;p&gt;Ropa intima para la mujer&lt;/p&gt;</descripcion>
+    <descripcionlimpia>Ropa intima para la mujer</descripcionlimpia>
+    <horario>&lt;p&gt;Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/cotys_lingerie.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Costuritas</nombre>
+    <local>B-11b</local>
+    <telefono>25569221</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>65</referencia_plano>
+    <piso>1</piso>
+    <tags>Costuritas,Wody,Cutter,DMC,Sisne,Hawai,Aero</tags>
+    <categorias>Hogar y Regalos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Costuritas&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Costuritas</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/costuritas.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Correos Chile</nombre>
+    <local>B6 B</local>
+    <telefono>9561425</telefono>
+    <sector>Pasillo Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano>64</referencia_plano>
+    <piso>1</piso>
+    <tags>Correos Chile,Encomiendas,recibo y envio de dinero,corresponcia,giro</tags>
+    <categorias>Bancos,Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	www.correosdechile.cl&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	www.correosdechile.cl</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a vie de 09:00 a 18:00 hrs. Sab de 10:00 a 14:00 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Correo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Coppelia</nombre>
+    <local>2017</local>
+    <telefono>25860346</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_g</nodo>
+    <referencia_plano>62</referencia_plano>
+    <piso>2</piso>
+    <tags>Coppelia,café variedades,pasteleria,sandwich,jugos,heladeria</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Cafeteria&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Cafeteria</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/coppelia.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Colloky</nombre>
+    <local>1052</local>
+    <telefono>25860344</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>61</referencia_plano>
+    <piso>1</piso>
+    <tags>Colloky,buzo,polera,zapatos,zapatillas,vestidos</tags>
+    <categorias>Accesorios Infantiles,Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Moda Infantil&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Moda Infantil</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Colloky.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Clínica de la Ropa</nombre>
+    <local>B-10b</local>
+    <telefono>+56 2 25860343</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>59</referencia_plano>
+    <piso>0</piso>
+    <tags>Clínica de la Ropa,basta,costura,bordado,ajuste de ropa,arreglo vestido de fiesta</tags>
+    <categorias>Reparadora de Calzado y Vestuario</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Reparacion todo vestuario&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Reparacion todo vestuario</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/clínica de ropa.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Cleaners</nombre>
+    <local>n/c</local>
+    <telefono>9-5093724</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>58</referencia_plano>
+    <piso>0</piso>
+    <tags>Lavado de autos</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Cleaners&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Cleaners</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Desde las 10:00 hasta las 20:30 horas&lt;/p&gt;</horario>
+    <logo></logo>
+  </tienda>
+  <tienda>
+    <nombre>Claro (pasillo Líder)</nombre>
+    <local>B-10a</local>
+    <telefono>25849664</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>57</referencia_plano>
+    <piso>1</piso>
+    <tags>Claro,Telefonía fija,cable,telefonia movil,internet,internet portatil</tags>
+    <categorias>Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Claro Movil&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Claro Movil</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/claro.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Claro</nombre>
+    <local>1012-17</local>
+    <telefono>25851901</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>56</referencia_plano>
+    <piso>1</piso>
+    <tags>Claro,Telefonía fija,cable,telefonia movil,internet,internet portatil</tags>
+    <categorias>Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Claro Chile&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Claro Chile</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/ClaroComunidades.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Cinemark</nombre>
+    <local>6</local>
+    <telefono>25801403</telefono>
+    <sector>Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>2</piso>
+    <tags>Cinemark,las terrazas</tags>
+    <categorias>Entretención y Cultura</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	&lt;u&gt;Valores Entradas:&lt;/u&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;br /&gt;&#13;
+	&lt;strong&gt;Entrada General: &lt;/strong&gt;$3.800&lt;br /&gt;&#13;
+	&lt;strong&gt;Pel&amp;iacute;culas 3D:&lt;/strong&gt;$5.500 (*)&lt;br /&gt;&#13;
+	(*) Precio &amp;uacute;nico, no v&amp;aacute;lidas promociones ni descuentos, exceptuando Promoci&amp;oacute;n&lt;br /&gt;&#13;
+	Entel PCS para Sala 3D, Club de Lectores para Sala XD y tarifa de d&amp;iacute;a mi&amp;eacute;rcoles.&lt;br /&gt;&#13;
+	&lt;br /&gt;&#13;
+	&lt;br /&gt;&#13;
+	&lt;u&gt;Rebajados&lt;/u&gt;:&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;br /&gt;&#13;
+	&lt;strong&gt;Sala Tradicional:&lt;/strong&gt;&lt;br /&gt;&#13;
+	Ni&amp;ntilde;os y 3&amp;ordm; Edad: $2.900&lt;br /&gt;&#13;
+	Lunes, Martes y Mi&amp;eacute;rcoles, excepto festivos y pre-estrenos, para TE.: $2.500 (**)&lt;br /&gt;&#13;
+	Jueves a Domingo, excepto festivos, antes de las 15:00 hrs., para TE.: $2.900 (**)&lt;br /&gt;&#13;
+	(**) Valores rebajados no incluyen Sala 3D ni Sala XD.&lt;br /&gt;&#13;
+	&lt;strong&gt;3D:&lt;/strong&gt;&lt;br /&gt;&#13;
+	Ni&amp;ntilde;os y 3&amp;ordm; Edad Sala 3D digital, excepto festivos, todos los horarios, no incluye estrenos ni preestrenos: $4.500&lt;br /&gt;&#13;
+	Mi&amp;eacute;rcoles Sala 3D digital, excepto festivos, todos los horarios, no incluye estrenos ni preestrenos: $4.500.&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;br /&gt;&#13;
+	&lt;u&gt;Restricci&amp;oacute;n de Pel&amp;iacute;culas:&lt;/u&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;br /&gt;&#13;
+	&lt;strong&gt;Los Pitufos,&lt;/strong&gt;Restricci&amp;oacute;n para todo tipo de pases gratuitos, promociones que involucren entradas sin costo y precio rebajado incluyendo Entel Visa, por 2 semanas desde su estreno. S&amp;oacute;lo se aceptan promoci&amp;oacute;n Entel PCS $2.500 Y $4.000.&lt;br /&gt;&#13;
+	&lt;strong&gt;One Direction - Asi Somos,&lt;/strong&gt;Restricci&amp;oacute;n para todo tipo de pases gratuitos, promociones que involucren entradas sin costo y precio rebajado incluyendo Entel Visa, por 1 semana desde su estreno. S&amp;oacute;lo se aceptan promoci&amp;oacute;n Entel PCS $2.500 Y $4.000.&lt;br /&gt;&#13;
+	&lt;br /&gt;&#13;
+	- Se acepta pago en efectivo, Redcompra y Tarjetas Bancarias.&lt;br /&gt;&#13;
+	- Tarifas ni&amp;ntilde;os v&amp;aacute;lidas a partir de 1 a&amp;ntilde;o 8 meses de edad.&lt;br /&gt;&#13;
+	- Para la compra de entradas para pel&amp;iacute;culas para mayores de 14 y 18 a&amp;ntilde;os, se deber&amp;aacute; presentar cedula de identidad.&amp;nbsp;&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Valores Entradas:&#13;
+&#13;
+	&#13;
+	Entrada General: $3.800&#13;
+	Pel&amp;iacute;culas 3D:$5.500 (*)&#13;
+	(*) Precio &amp;uacute;nico, no v&amp;aacute;lidas promociones ni descuentos, exceptuando Promoci&amp;oacute;n&#13;
+	Entel PCS para Sala 3D, Club de Lectores para Sala XD y tarifa de d&amp;iacute;a mi&amp;eacute;rcoles.&#13;
+	&#13;
+	&#13;
+	Rebajados:&#13;
+&#13;
+	&#13;
+	Sala Tradicional:&#13;
+	Ni&amp;ntilde;os y 3&amp;ordm; Edad: $2.900&#13;
+	Lunes, Martes y Mi&amp;eacute;rcoles, excepto festivos y pre-estrenos, para TE.: $2.500 (**)&#13;
+	Jueves a Domingo, excepto festivos, antes de las 15:00 hrs., para TE.: $2.900 (**)&#13;
+	(**) Valores rebajados no incluyen Sala 3D ni Sala XD.&#13;
+	3D:&#13;
+	Ni&amp;ntilde;os y 3&amp;ordm; Edad Sala 3D digital, excepto festivos, todos los horarios, no incluye estrenos ni preestrenos: $4.500&#13;
+	Mi&amp;eacute;rcoles Sala 3D digital, excepto festivos, todos los horarios, no incluye estrenos ni preestrenos: $4.500.&#13;
+&#13;
+	&#13;
+	Restricci&amp;oacute;n de Pel&amp;iacute;culas:&#13;
+&#13;
+	&#13;
+	Los Pitufos,Restricci&amp;oacute;n para todo tipo de pases gratuitos, promociones que involucren entradas sin costo y precio rebajado incluyendo Entel Visa, por 2 semanas desde su estreno. S&amp;oacute;lo se aceptan promoci&amp;oacute;n Entel PCS $2.500 Y $4.000.&#13;
+	One Direction - Asi Somos,Restricci&amp;oacute;n para todo tipo de pases gratuitos, promociones que involucren entradas sin costo y precio rebajado incluyendo Entel Visa, por 1 semana desde su estreno. S&amp;oacute;lo se aceptan promoci&amp;oacute;n Entel PCS $2.500 Y $4.000.&#13;
+	&#13;
+	- Se acepta pago en efectivo, Redcompra y Tarjetas Bancarias.&#13;
+	- Tarifas ni&amp;ntilde;os v&amp;aacute;lidas a partir de 1 a&amp;ntilde;o 8 meses de edad.&#13;
+	- Para la compra de entradas para pel&amp;iacute;culas para mayores de 14 y 18 a&amp;ntilde;os, se deber&amp;aacute; presentar cedula de identidad.&amp;nbsp;</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/cinemark.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>ChinaWok</nombre>
+    <local>D6b</local>
+    <telefono>2979 59 45</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>53</referencia_plano>
+    <piso>2</piso>
+    <tags>ChinaWok,wantan,chapsui,carne mongoliana,arrollado primaver,arroz chaufan</tags>
+    <categorias>Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	comida china&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	comida china</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Chinawok.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Chileexpress</nombre>
+    <local>B 05b</local>
+    <telefono>25714288</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>52</referencia_plano>
+    <piso>1</piso>
+    <tags>Chileexpress,Encomiendas,recibo y envio de dinero,corresponcia</tags>
+    <categorias>Bancos,Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Servicios expresos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Servicios expresos</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Chilexpress.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Chevrolet</nombre>
+    <local>AP 101</local>
+    <telefono>+56 2 5860341-42 - +56 2 5860847</telefono>
+    <sector>Auto Plaza</sector>
+    <nivel></nivel>
+    <nodo>n-1_a</nodo>
+    <referencia_plano>51</referencia_plano>
+    <piso>0</piso>
+    <tags>Chevrolet,Spark,Aveo</tags>
+    <categorias>Servicio Automotriz</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Ven a conocer los modelos que Chevrolet tiene para ti&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Ven a conocer los modelos que Chevrolet tiene para ti</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Chevroletsalfa.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Cerrajería Fariña</nombre>
+    <local>BL-125</local>
+    <telefono>+56 2 25860459</telefono>
+    <sector>Bulevar de Servicios</sector>
+    <nivel></nivel>
+    <nodo>n-1_c</nodo>
+    <referencia_plano>258</referencia_plano>
+    <piso>0</piso>
+    <tags>Cerrajería Fariña,Copia de llaves,candados,llaveros,pilas,encendedores</tags>
+    <categorias>Módulos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Copia de llaves&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Copia de llaves</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Cat</nombre>
+    <local>P 1308 1312</local>
+    <telefono>25860349</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>49</referencia_plano>
+    <piso>1</piso>
+    <tags>Cat,Zapatos,Zapatillas,Polerones,Jeans,Relojes,Poleras</tags>
+    <categorias>Accesorios Juveniles,Calzado Juvenil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Zapatos y vestuario masculino y femenino&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Zapatos y vestuario masculino y femenino</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/CAT.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Castaño</nombre>
+    <local>P 1209</local>
+    <telefono>+56 2 5860356</telefono>
+    <sector>Ampliación Exterior</sector>
+    <nivel></nivel>
+    <nodo>n1_v</nodo>
+    <referencia_plano>48</referencia_plano>
+    <piso>1</piso>
+    <tags>Coca-cola,vital,nescafe,mckay,costa,pasteles,pan,empanas,café,fiambreria,jugos</tags>
+    <categorias>Alimentos y Bebidas</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Un compromiso con la calidad&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Un compromiso con la calidad</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	lun a sab de 08:00 a 21.00 hrs. Dom de 11:00 a 21:00 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/castanos.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Casa Royal</nombre>
+    <local>1009-13</local>
+    <telefono>25860336</telefono>
+    <sector>Pasillo 1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>47</referencia_plano>
+    <piso>1</piso>
+    <tags>Victory Nox,Energyzer,Masterg,Optical,Casa Royal,Pilas,Bateria,control remoto,antena,focos</tags>
+    <categorias>Computación y Electrónica</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Casa Royal Electronica&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Casa Royal Electronica</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/CasaRoyal.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Casa Pichara</nombre>
+    <local>B-15</local>
+    <telefono>27211489</telefono>
+    <sector>Bulevar Sodimac</sector>
+    <nivel></nivel>
+    <nodo>n1_h</nodo>
+    <referencia_plano>46</referencia_plano>
+    <piso>1</piso>
+    <tags>Elgon,Davines,Oster,Estereo Color,Furelle,Tinturas,Mascara Capilar,Cepillo,Alisadoras de pelo,Lavapelo</tags>
+    <categorias>Peluquería y Belleza</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tratamientos capilares&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tratamientos capilares</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/casapichara.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Casa Ideas</nombre>
+    <local>1144-1148-1152</local>
+    <telefono>2580777 -2879-80-81</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>45</referencia_plano>
+    <piso>1</piso>
+    <tags>Casa Ideas,Decoracion,Loza,Cojines,Cortinas,Lampara</tags>
+    <categorias>Hogar y Regalos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Encuentra todo lo necesario para decorar tu hogar&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Encuentra todo lo necesario para decorar tu hogar</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/casaideas.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Carteras Italianas</nombre>
+    <local>2086</local>
+    <telefono>25860523</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_c</nodo>
+    <referencia_plano>44</referencia_plano>
+    <piso>2</piso>
+    <tags>Fabricacion propia,Cartera,Bolso,Billetera,Monedero,Malerin</tags>
+    <categorias>Accesorios Femeninos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Productos de cuero y fantasia&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Productos de cuero y fantasia</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/carterasitalianas_gr.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Capellini</nombre>
+    <local>2115-17</local>
+    <telefono>25860334</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_c</nodo>
+    <referencia_plano>43</referencia_plano>
+    <piso>2</piso>
+    <tags>Capellini,Police,Zapatos,Chalas,Botas,Botines</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calzado de mujer&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calzado de mujer</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Capellini.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Cannon</nombre>
+    <local>2025 -y 2029</local>
+    <telefono>2580 77 75</telefono>
+    <sector></sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>92</referencia_plano>
+    <piso>2</piso>
+    <tags>Cannon,Cobertor,Plumon,Sábanas,Almohadas,Fundas</tags>
+    <categorias>Hogar y Regalos</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Ropa de cama&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Ropa de cama</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/cannon.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Caffarena</nombre>
+    <local>2050-54</local>
+    <telefono>24505500 anexo 418</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>40</referencia_plano>
+    <piso>2</piso>
+    <tags>Caffarena,Medias,calcetines,pantys,sosten,sleep</tags>
+    <categorias>Lencería y Ropa Interior</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Me queda bien me siento linda&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Me queda bien me siento linda</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Caffarena.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Burger King</nombre>
+    <local>d 10</local>
+    <telefono>2580 77 89</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>39</referencia_plano>
+    <piso>2</piso>
+    <tags>Fabricacion propia,Hambuerguesas,empanadas,Bebidas,Jugos,papas fritas</tags>
+    <categorias>Alimentos y Bebidas,Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Burger King R&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Burger King R</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/burger king.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Buffet Express</nombre>
+    <local>d -18</local>
+    <telefono>25807823</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>2</piso>
+    <tags>Fabricacion propia,Parrilladas,almuerzo,postres,bebidas,productos ligth</tags>
+    <categorias>Alimentos y Bebidas,Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Variedad de platos preparados&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Variedad de platos preparados</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Buffetexpress.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bufalo Beef</nombre>
+    <local>2011A, 2011B 2013</local>
+    <telefono>25860372</telefono>
+    <sector>Food Court</sector>
+    <nivel></nivel>
+    <nodo>n2_h</nodo>
+    <referencia_plano>37</referencia_plano>
+    <piso>2</piso>
+    <tags>Manufactura propia,Parrilladas,almuerzo,postres,bebidas,productos ligth</tags>
+    <categorias>Alimentos y Bebidas,Food Court</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Disfruta las mejores parrilladas.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Disfruta las mejores parrilladas.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 22:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/BufaloBeef.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bubble Gammers</nombre>
+    <local>1148</local>
+    <telefono>25860330</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>222</referencia_plano>
+    <piso>1</piso>
+    <tags>Nike,Skechers,Buble Gammers,Zapatillas niño,niñas,deportivas,primeros pasos</tags>
+    <categorias>Calzado Infantil,Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calidad, magia, color y fantas&amp;iacute;a&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calidad, magia, color y fantas&amp;iacute;a</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/BubbleGummers.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bottero</nombre>
+    <local>2262</local>
+    <telefono>25860523</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_k</nodo>
+    <referencia_plano>36</referencia_plano>
+    <piso>2</piso>
+    <tags>Bottero,Botas,Botines,Zapato formal,Zapatos confort</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tendencias&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tendencias</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Bottero.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bruno Rossi</nombre>
+    <local>2145</local>
+    <telefono>25807770</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>34</referencia_plano>
+    <piso>2</piso>
+    <tags>Dakota,Bruno Rossi,Botas,Botines,Zapato de vestir,Zapatos reina,Zapatos formal</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Moda - Calzado Mujer&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Moda - Calzado Mujer</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/BrunoRossi.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bresler</nombre>
+    <local>1184</local>
+    <telefono>78983058</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_a</nodo>
+    <referencia_plano>208</referencia_plano>
+    <piso>1</piso>
+    <tags>COca-Cola y Bresler,Helados,bebidas,copas,café,jugos</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Tentaciones que te dejar&amp;aacute;n helado&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Tentaciones que te dejar&amp;aacute;n helado</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/bresler.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bravíssimo Local 1</nombre>
+    <local>1006</local>
+    <telefono>25807838</telefono>
+    <sector>Pasillo1</sector>
+    <nivel></nivel>
+    <nodo>n1_i</nodo>
+    <referencia_plano>1006</referencia_plano>
+    <piso>1</piso>
+    <tags>Coca-Cola,Andina,Nescafé,Café,Jugos,Patelerìa,Sandwicheria,Heladería</tags>
+    <categorias>Cafeterías y Heladerías,Restaurantes</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Bravissimo Gelater&amp;iacute;a&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Bravissimo Gelater&amp;iacute;a</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Boumex</nombre>
+    <local>1149</local>
+    <telefono>25809248</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_b</nodo>
+    <referencia_plano>32</referencia_plano>
+    <piso>1</piso>
+    <tags>Marca propia,Aros,Coyar,Pulsera,Tobillera,Prendedor</tags>
+    <categorias>Joyerías y Relojerías</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Joyeria en plata&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Joyeria en plata</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Boumex.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Block</nombre>
+    <local>2049-53</local>
+    <telefono>27211045</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>31</referencia_plano>
+    <piso>2</piso>
+    <tags>Vans,Matrix,Lacoste Puma,Nike,Zapatillas,Billeteras,Accesorios de Eskate,Anteojos,Calcetines</tags>
+    <categorias>Calzado Juvenil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Block Store&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Block Store</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Block.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Black and Blue</nombre>
+    <local>2033</local>
+    <telefono>25860508</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_f</nodo>
+    <referencia_plano>30</referencia_plano>
+    <piso>2</piso>
+    <tags>Fabricacion propia,Polerones,Poleras,Buzos,Jeans,Gorros</tags>
+    <categorias>Accesorios Infantiles,Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	By Limonada&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	By Limonada</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Blackandblue.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Billabong</nombre>
+    <local></local>
+    <telefono>25807776</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>29</referencia_plano>
+    <piso>2</piso>
+    <tags>Fabricacion propia,Jeans,Mochilas,Poleras,Gorros,Cinturones</tags>
+    <categorias>Vestuario Juvenil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Billabong Jeans&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Billabong Jeans</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Billabong.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Biblioteca Viva</nombre>
+    <local>4</local>
+    <telefono>27211309-10</telefono>
+    <sector>Terrazas</sector>
+    <nivel></nivel>
+    <nodo>n1_l</nodo>
+    <referencia_plano>28</referencia_plano>
+    <piso>2</piso>
+    <tags>Biblioteca Viva Norte,Cuentos,Enciclopedia,Diccionarios,Libros Entretenimiento,Literatura general,las terrazas</tags>
+    <categorias>Entretención y Cultura</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Biblioteca Viva Norte&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Biblioteca Viva Norte</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a dom de 13:00 a 21:00 hrs.&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Bibliotecaviva.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bellota</nombre>
+    <local>1160</local>
+    <telefono>25860436</telefono>
+    <sector>Pasillo 3</sector>
+    <nivel></nivel>
+    <nodo>n1_c</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>1</piso>
+    <tags>Fabricacion propia,Pantalones de vestir,cinturon,sweaters,chaquetas,camisas</tags>
+    <categorias>Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Vestuario Masculino para toda ocasi&amp;oacute;n&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Vestuario Masculino para toda ocasi&amp;oacute;n</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Bellota.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Belsport</nombre>
+    <local>1041-45</local>
+    <telefono>25860324</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_g</nodo>
+    <referencia_plano>25</referencia_plano>
+    <piso>1</piso>
+    <tags>Fila,Puma,Adidas,NGX,Power,Balones,Bolsos,Buzos,Zapatillas,Poleras deportivas</tags>
+    <categorias>Calzado Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Especializada en venta de zapatillas y aacesorios deportivos.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Especializada en venta de zapatillas y aacesorios deportivos.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Belsport.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Battery Street</nombre>
+    <local>2054</local>
+    <telefono>2580 7755</telefono>
+    <sector>Pasillo 4</sector>
+    <nivel></nivel>
+    <nodo>n2_e</nodo>
+    <referencia_plano>23</referencia_plano>
+    <piso>2</piso>
+    <tags>Levis,Poleras,pantalon de vestir,cinturones,sweaters,chaquetas</tags>
+    <categorias>Vestuario Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Ufo Lives Conbert&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Ufo Lives Conbert</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Battery street.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Bata</nombre>
+    <local>1064-72</local>
+    <telefono>25860322</telefono>
+    <sector>Pasillo 2</sector>
+    <nivel></nivel>
+    <nodo>n1_f</nodo>
+    <referencia_plano>22</referencia_plano>
+    <piso>1</piso>
+    <tags>Skechers,Nike,Buble Gumers,Power,Zapatillas,Zapatos de Vestir,Carteras,Calcetines,Puma</tags>
+    <categorias>Calzado Femenino,Calzado Infantil,Calzado Masculino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Variedad de calzado para hombre mujer y ni&amp;ntilde;o&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Variedad de calzado para hombre mujer y ni&amp;ntilde;o</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Bata_gr.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Banana</nombre>
+    <local>p 2270 2274</local>
+    <telefono>+56 2 25860415</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_j</nodo>
+    <referencia_plano>12</referencia_plano>
+    <piso>2</piso>
+    <tags>Fabricacion propia,Cunas,roperos,comodas,ropas de cama,ropa de bebés</tags>
+    <categorias>Accesorios Infantiles,Vestuario Infantil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Ideal para tus hijos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Ideal para tus hijos</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/banana.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Baby Infanti</nombre>
+    <local>2130-2138</local>
+    <telefono>25860580</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_b</nodo>
+    <referencia_plano>11</referencia_plano>
+    <piso>2</piso>
+    <tags>Infanti,Britax,Chicco,Avent,Safetry,Coches,sillas de comer,ropa infantil,mesedoras,correpasillos</tags>
+    <categorias>Accesorios Infantiles</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Baby Infanti Store&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Baby Infanti Store</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/babyinfanti.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Ansonia</nombre>
+    <local>2110</local>
+    <telefono>+56 2 25860316</telefono>
+    <sector>Pasillo 5</sector>
+    <nivel></nivel>
+    <nodo>n2_c</nodo>
+    <referencia_plano></referencia_plano>
+    <piso>2</piso>
+    <tags>Solo productos Ansonia,Botas,Botines,Calzado de fiesta,Calzado formal,Plantillas</tags>
+    <categorias>Calzado Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Calzado Femenino&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Calzado Femenino</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/ansonia.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Ash New York</nombre>
+    <local>P 1300 1305</local>
+    <telefono>25860370</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>7</referencia_plano>
+    <piso>1</piso>
+    <tags>Solo productos Ash,Jeans,Pantalones de Vestir,Sweater,Poleras,Blusas</tags>
+    <categorias>Vestuario Femenino</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	ASH New York&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	ASH New York</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/ashnewyork.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Americanino</nombre>
+    <local>P 1288 1288</local>
+    <telefono>23858839</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_q</nodo>
+    <referencia_plano>5</referencia_plano>
+    <piso>1</piso>
+    <tags>Solo productos Americanino,Jeans,poleras,Polerones,Perfumes,Gorros</tags>
+    <categorias>Accesorios Juveniles,Vestuario Juvenil</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	www.americanino.com&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	www.americanino.com</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Americanino.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>All Nutrition</nombre>
+    <local>B - 6a</local>
+    <telefono>25807813</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>4</referencia_plano>
+    <piso>1</piso>
+    <tags>Pharmaton,Nutrapharm,Sport Lab,Vitamine Life,Sun Vit,Quemadores de grasa,Diureticos,Batidos,Proteinas,Ganadores de peso</tags>
+    <categorias>Alimentos y Bebidas</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Especialista en susplementos alimenticios y deportivos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Especialista en susplementos alimenticios y deportivos</descripcionlimpia>
+    <horario></horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/AllNutrition.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Afex Casa de Cambio</nombre>
+    <local>B-9b</local>
+    <telefono>+56 2 7211370 - +56 2 6369124</telefono>
+    <sector>Bulevar Líder</sector>
+    <nivel></nivel>
+    <nodo>n1_j</nodo>
+    <referencia_plano>3</referencia_plano>
+    <piso>1</piso>
+    <tags>Casa de Cambio</tags>
+    <categorias>Bancos,Encomiendas y Servicios</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Associated Foreing Exchange&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Associated Foreing Exchange</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:00 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Afex.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>Adidas</nombre>
+    <local></local>
+    <telefono>25807801</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n1_s</nodo>
+    <referencia_plano>2</referencia_plano>
+    <piso>1</piso>
+    <tags>Solo productos Adidas,Bolsos,Buzos,Polerones,Zapatillas,Anteojos de Sol,Jockey</tags>
+    <categorias>Vestuario Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Art&amp;iacute;culos deportivos.&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Art&amp;iacute;culos deportivos.</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/Adidas.jpg</logo>
+  </tienda>
+  <tienda>
+    <nombre>100% Fútbol</nombre>
+    <local>P 2302 2306</local>
+    <telefono>25860362  25860364</telefono>
+    <sector>Ampliación</sector>
+    <nivel></nivel>
+    <nodo>n2_k</nodo>
+    <referencia_plano>132</referencia_plano>
+    <piso>2</piso>
+    <tags>Adidas,Nike,Brooks,Reebok,North Stars,Zapatillas,Calcetines,Balones,Bolsos,Gorros</tags>
+    <categorias>Vestuario Deportivo</categorias>
+    <descripcion>&lt;p&gt;&#13;
+	Art&amp;iacute;culos deportivos&lt;/p&gt;</descripcion>
+    <descripcionlimpia>&#13;
+	Art&amp;iacute;culos deportivos</descripcionlimpia>
+    <horario>&lt;p&gt;&#13;
+	Lun a Dom de 10:00 a 21:30 hrs&lt;/p&gt;</horario>
+    <logo>http://www.mallplaza.cl/images/stories/compartido/tiendas/100Futbol.jpg</logo>
+  </tienda>
+</tiendas>
