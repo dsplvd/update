@@ -82,7 +82,7 @@ for ($i=1; $i < $largo+1; $i++) {
 
 
 // Paso 5: crear y guardar archivo
-$blob = fopen("datos".$nombrecorto.".cvs","w") or
+$blob = fopen("datos_".$nombrecorto.".cvs","w") or
     die("Problemas en la creacion");
 fputs($blob, $arrStr);
 fclose($blob);
