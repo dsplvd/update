@@ -1,10 +1,10 @@
 #!/bin/bash
-wget http://www.mallplaza.cl/xml/descuentos.php?siteid=mallplaza-$1 --output-document=descuentos.xml && sleep 10 && wget http://www.mallplaza.cl/xml/cine.php?siteid=mallplaza-$1 --output-document=cine.xml && sleep 10 && wget http://www.mallplaza.cl/xml/eventos.php?siteid=mallplaza-$1 --output-document=eventos.xml
-ls eventos.xml >/dev/null || exit
+wget http://www.mallplaza.cl/xml/descuentos.php?siteid=mallplaza-$1 --output-document=descuentos.xml && sleep 10 && wget http://www.mallplaza.cl/xml/cine.php?siteid=mallplaza-$1 --output-document=cine.xml && sleep 10 && wget http://www.mallplaza.cl/xml/eventos.php?siteid=mallplaza-$1 --output-document=eventos.xml && wget http://www.mallplaza.cl/xml/tiendas.php?siteid=mallplaza-$1 --output-document=tiendas.xml
+ls tiendas.xml >/dev/null || exit
 sudo squid3 -k shutdown
 sudo service squid3 stop
-mv /home/ddmallplaza/squid_cache.old /home/ddmallplaza/squid_cache.borrar
-mv /home/ddmallplaza/squid_cache /home/ddmallplaza/squid_cache.old
+sudo mv /home/ddmallplaza/squid_cache.old /home/ddmallplaza/squid_cache.borrar
+sudo mv /home/ddmallplaza/squid_cache /home/ddmallplaza/squid_cache.old
 mkdir /home/ddmallplaza/squid_cache
 sudo chown proxy:proxy /home/ddmallplaza/squid_cache
 sudo squid3 -z
@@ -22,6 +22,7 @@ sudo mkdir /opt/lampp/htdocs/$2/src/xml
 sudo cp descuentos.xml /opt/lampp/htdocs/$2/src/xml/descuentos.xml
 sudo cp cine.xml /opt/lampp/htdocs/$2/src/xml/cine.xml
 sudo cp eventos.xml /opt/lampp/htdocs/$2/src/xml/eventos.xml
+sudo cp tiendas.xml /opt/lampp/htdocs/$2/src/xml/tiendas.xml
 sudo rm *.xml
 sudo rm -rf /home/ddmallplaza/squid_cache.borrar
 sudo rm -rf /opt/lampp/htdocs/$2/src/xml.old
