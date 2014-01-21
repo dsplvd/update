@@ -1,6 +1,11 @@
 #!/bin/bash
+<<<<<<< HEAD
 wget http://www.mallplaza.cl/xml/descuentos.php?siteid=mallplaza-$1 --output-document=descuentos.xml && sleep 10 && wget http://www.mallplaza.cl/xml/cine.php?siteid=mallplaza-$1 --output-document=cine.xml && sleep 10 && wget http://www.mallplaza.cl/xml/eventos.php?siteid=mallplaza-$1 --output-document=eventos.xml && wget http://www.mallplaza.cl/xml/tiendas.php?siteid=mallplaza-$1 --output-document=tiendas.xml
 ls tiendas.xml >/dev/null || exit
+=======
+wget http://www.mallplaza.cl/xml/descuentos.php?siteid=mallplaza-$1 --output-document=descuentos.xml && sleep 10 && wget http://www.mallplaza.cl/xml/cine.php?siteid=mallplaza-$1 --output-document=cine.xml && sleep 10 && wget http://www.mallplaza.cl/xml/eventos.php?siteid=mallplaza-$1 --output-document=eventos.xml && sleep 10 && wget http://www.mallplaza.cl/xml/queestapasando.php?siteid=mallplaza-$1 --output-document=pasando.xml
+ls eventos.xml >/dev/null || exit
+>>>>>>> f570be0955bc33b3fb1456fcb71d168dbd44cd18
 sudo squid3 -k shutdown
 sudo service squid3 stop
 sudo mv /home/ddmallplaza/squid_cache.old /home/ddmallplaza/squid_cache.borrar
@@ -16,14 +21,20 @@ sleep 10
 /home/ddmallplaza/update/./xidel --proxy=127.0.0.1:3128 cine.xml -f //afiche
 sleep 10
 /home/ddmallplaza/update/./xidel --proxy=127.0.0.1:3128 eventos.xml -f //afiche
+sleep 10
+/home/ddmallplaza/update/./xidel --proxy=127.0.0.1:3128 pasando.xml -f //imagen
 sudo mv /opt/lampp/htdocs/$2/src/xml.old /opt/lampp/htdocs/pal1/src/xml.borrar
-sudo mv /opt/lampp/htdocs/$2/src/xml /opt/lampp/htdocs/pal1/src/xml.old
+sudo mv /opt/lampp/htdocs/$2/src/xml/ /opt/lampp/htdocs/pal1/src/xml.old
 sudo mkdir /opt/lampp/htdocs/$2/src/xml
 sudo cp descuentos.xml /opt/lampp/htdocs/$2/src/xml/descuentos.xml
 sudo cp cine.xml /opt/lampp/htdocs/$2/src/xml/cine.xml
 sudo cp eventos.xml /opt/lampp/htdocs/$2/src/xml/eventos.xml
+<<<<<<< HEAD
 sudo cp tiendas.xml /opt/lampp/htdocs/$2/src/xml/tiendas.xml
+=======
+sudo cp pasando.xml /opt/lampp/htdocs/$2/src/xml/pasando.xml
+>>>>>>> f570be0955bc33b3fb1456fcb71d168dbd44cd18
 sudo rm *.xml
 sudo rm -rf /home/ddmallplaza/squid_cache.borrar
-sudo rm -rf /opt/lampp/htdocs/$2/src/xml.old
+sudo rm -rf /opt/lampp/htdocs/$2/src/xml.borrar
 exit
