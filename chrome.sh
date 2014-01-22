@@ -1,5 +1,7 @@
 #!/bin/bash
-wget --delete-after http://localhost/$1/descuentos.php
+wget --delete-after http://localhost/$1/descuentos.html
+wget --delete-after http://localhost/$1/cine.html
+wget --delete-after http://localhost/$1/eventos.html
 wget --delete-after http://localhost/$1/src/js/tiendas.js
 wget --delete-after http://localhost/$1/src/js/descuentos.js
 wget --delete-after http://localhost/$1/src/js/eventos.js
