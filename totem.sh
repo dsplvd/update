@@ -39,7 +39,7 @@ cat > tunnel << EOL
 #!/bin/sh
 AUTOSSH_GATE=0
 export AUTOSSH_GATETIME
-sudo su -c "sudo autossh -M 0 -N -R 2001:localhost:${totemssh} -o 'ServerAliveInterval 60' -o 'ServerAliveCountMax 3' -o 'StrictHostKeyChecking=no' -o 'BatchMode=yes' -i /home/ddmallplaza/.ssh/id_rsa uber@futura.bigbox.info" ddmallplaza
+sudo su -c "sudo autossh -M 0 -N -R ${totemssh}:localhost:22 -o 'ServerAliveInterval 60' -o 'ServerAliveCountMax 3' -o 'StrictHostKeyChecking=no' -o 'BatchMode=yes' -i /home/ddmallplaza/.ssh/id_rsa uber@futura.bigbox.info" ddmallplaza
 EOL
 sudo rm /etc/rabbitmq/rabbitmq.config
 sudo rm /etc/network/if-up.d/tunnel
