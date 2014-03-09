@@ -48,4 +48,5 @@ sudo cp rabbitmq.config /etc/rabbitmq/rabbitmq.config
 sudo chown root:root /etc/rabbitmq/rabbitmq.config
 sudo cp tunnel /etc/network/if-up.d/tunnel
 sudo chown root:root /etc/network/if-up.d/tunnel
+sudo chmod +x /etc/network/if-up.d/tunnel
 cp totem.js /home/ddmallplaza/mall/${mall}/totem.js
