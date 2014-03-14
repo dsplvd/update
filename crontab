@@ -1,0 +1,8 @@
+0 2 * * * /home/ddmallplaza/update/update_manual.sh egana peg1 > /home/ddmallplaza/logs/update.log 2>&1 # JOB_ID_4
+30 * * * * /opt/lampp/htdocs/pno1/correos.sh > /home/ddmallplaza/logs/correos.log 2>&1 # JOB_ID_5
+45 9 * * * /home/ddmallplaza/update/ls > /home/ddmallplaza/logs/reboot.log 2>&1 # JOB_ID_9
+@reboot /home/ddmallplaza/update/chrome.sh peg1 > /home/ddmallplaza/logs/chrome.log 2>&1 # JOB_ID_12
+* * * * * /home/ddmallplaza/update/touch.sh # JOB_ID_15
+0 3 * * * /home/ddmallplaza/update/tiendas/update_tiendas.sh egana peg1 > /home/ddmallplaza/logs/tiendas.log 2>&1 # JOB_ID_16
+*/5 * * * * /home/ddmallplaza/update/monitor.sh || sudo service squid3 restart > /dev/null;
+
