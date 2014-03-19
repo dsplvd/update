@@ -13,9 +13,9 @@ sleep 5
 /home/ddmallplaza/update/./xidel --proxy=127.0.0.1:8123 pasando.xml -f //imagen
 sleep 5
 rm *.xml
-sudo cp xml2json/$1/descuentos.json /home/ddmallplaza/mall/$2/json/descuentos.json
-sudo cp xml2json/$1/cine.json /home/ddmallplaza/mall/$2/json/cine.json
-sudo cp xml2json/$1/eventos.json /home/ddmallplaza/mall/$2/json/eventos.json
-sudo cp xml2json/$1/pasando.json /home/ddmallplaza/mall/$2/json/pasando.json
+sudo cp /home/ddmallplaza/xml2json/$1/descuentos.json /home/ddmallplaza/mall/$2/json/descuentos.json
+sudo cp /home/ddmallplaza/xml2json/$1/cine.json /home/ddmallplaza/mall/$2/json/cine.json
+sudo cp /home/ddmallplaza/xml2json/$1/eventos.json /home/ddmallplaza/mall/$2/json/eventos.json
+sudo cp /home/ddmallplaza/xml2json/$1/pasando.json /home/ddmallplaza/mall/$2/json/pasando.json
 pm2 reload all
 exit
