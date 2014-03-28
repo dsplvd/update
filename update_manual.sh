@@ -1,6 +1,7 @@
 #!/bin/bash
 wget http://www.mallplaza.cl/xml/descuentos.php?siteid=mallplaza-$1 --output-document=descuentos.xml && sleep 10 && wget http://www.mallplaza.cl/xml/cine.php?siteid=mallplaza-$1 --output-document=cine.xml && sleep 10 && wget http://www.mallplaza.cl/xml/eventos.php?siteid=mallplaza-$1 --output-document=eventos.xml && sleep 10 && wget http://www.mallplaza.cl/xml/queestapasando.php?siteid=mallplaza-$1 --output-document=pasando.xml && sleep 10 && wget http://www.mallplaza.cl/xml/tiendas.php?siteid=mallplaza-$1 --output-document=tiendas.xml
 ls tiendas.xml >/dev/null || exit
+sudo service squid3 stop
 sudo squid3 -k shutdown
 sudo mv /home/ddmallplaza/squid_cache.old /home/ddmallplaza/squid_cache.borrar
 sudo mv /home/ddmallplaza/squid_cache /home/ddmallplaza/squid_cache.old
