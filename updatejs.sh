@@ -11,13 +11,13 @@ mkdir /home/ddmallplaza/squid_cache
 sudo chown proxy:proxy /home/ddmallplaza/squid_cache
 sudo squid3 -z
 sudo service squid3 restart
-/home/ddmallplaza/update/./xidel --proxy=127.0.0.1:8123 descuentos.xml -f //imagen
+/home/ddmallplaza/update/./xidel --proxy=127.0.0.1:3128 descuentos.xml -f //imagen
 sleep 5
-/home/ddmallplaza/update/./xidel --proxy=127.0.0.1:8123 cine.xml -f //afiche
+/home/ddmallplaza/update/./xidel --proxy=127.0.0.1:3128 cine.xml -f //afiche
 sleep 5
 /home/ddmallplaza/update/./xidel --proxy=127.0.0.1:8123 eventos.xml -f //afiche
 sleep 5
-/home/ddmallplaza/update/./xidel --proxy=127.0.0.1:8123 pasando.xml -f //imagen
+/home/ddmallplaza/update/./xidel --proxy=127.0.0.1:3128 pasando.xml -f //imagen
 cp descuentos.xml /home/ddmallplaza/mall/$2/xml/descuentos.xml
 cp cine.xml /home/ddmallplaza/mall/$2/xml/cine.xml
 cp eventos.xml /home/ddmallplaza/mall/$2/xml/eventos.xml
