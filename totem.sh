@@ -2,6 +2,8 @@
 clear
 echo 'Introduzca Mall:'
 read mall
+echo 'Introduzca carpeta sistema:'
+read mcorto
 echo 'Introduza IDTotem:'
 read totem
 echo 'Introduzca Posicion Totem en X:'
@@ -24,7 +26,7 @@ EOL
 cat > rabbitmq.config << EOL
 [
  {rabbitmq_shovel,
-    [ {shovels, [ {${mall}${totem}, [ {sources, [{broker,"amqp://guest:guest@localhost:5672"}]}
+    [ {shovels, [ {${mcorto}${totem}, [ {sources, [{broker,"amqp://guest:guest@localhost:5672"}]}
                 , {destinations, [{broker,"amqp://guest:guest@192.168.1.40:5672"}]}
                 , {queue, <<"totem">>}
                 , {ack_mode, on_confirm}
@@ -43,10 +45,13 @@ sudo su -c "sudo autossh -M 0 -N -R ${totemssh}:localhost:22 -o 'ServerAliveInte
 EOL
 sudo rm /etc/rabbitmq/rabbitmq.config
 sudo rm /etc/network/if-up.d/tunnel
-sudo rm /home/ddmallplaza/mall/${mall}/totem.js
+sudo rm /home/ddmallplaza/mall/${mcorto}/totem.js
 sudo cp rabbitmq.config /etc/rabbitmq/rabbitmq.config
 sudo chown root:root /etc/rabbitmq/rabbitmq.config
 sudo cp tunnel /etc/network/if-up.d/tunnel
 sudo chown root:root /etc/network/if-up.d/tunnel
 sudo chmod +x /etc/network/if-up.d/tunnel
-cp totem.js /home/ddmallplaza/mall/${mall}/totem.js
+cp totem.js /home/ddmallplaza/mall/${mcorto}/totem.js
+rm totem.js
+rm tunnel
+rm rabbitmq.config
