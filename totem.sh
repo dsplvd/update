@@ -27,7 +27,7 @@ cat > rabbitmq.config << EOL
 [
  {rabbitmq_shovel,
     [ {shovels, [ {${mcorto}${totem}, [ {sources, [{broker,"amqp://guest:guest@localhost:5672"}]}
-                , {destinations, [{broker,"amqp://guest:guest@192.168.1.40:5672"}]}
+                , {destinations, [{broker,"amqp://guest:guest@futura.bigbox.info:5672"}]}
                 , {queue, <<"totem">>}
                 , {ack_mode, on_confirm}
                 , {publish_properties, [{delivery_mode, 2}]}
