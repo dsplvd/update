@@ -6,4 +6,5 @@ then
 else
 	sudo rm /opt/lampp/logs/httpd.pid
 	sudo /opt/lampp/./lampp restart && sudo /opt/lampp/./lampp restart
+	sudo reboot
 fi
