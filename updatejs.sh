@@ -23,6 +23,7 @@ cp /home/ddmallplaza/xml2json/$1/descuentos.json /home/ddmallplaza/mall/$2/json/
 cp /home/ddmallplaza/xml2json/$1/cine.json /home/ddmallplaza/mall/$2/json/cine.json
 cp /home/ddmallplaza/xml2json/$1/eventos.json /home/ddmallplaza/mall/$2/json/eventos.json
 cp /home/ddmallplaza/xml2json/$1/pasando.json /home/ddmallplaza/mall/$2/json/pasando.json
+cp /home/ddmallplaza/xml2json/$1/tiendas.json /home/ddmallplaza/mall/$2/json/tiendas.json
 rm *.xml
 pm2 reload all
 exit
