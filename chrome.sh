@@ -8,4 +8,4 @@ wget --delete-after http://localhost/$1/src/js/eventos.js
 wget --delete-after http://localhost/$1/src/js/cine.js
 export DISPLAY=:0.0
 xinput set-prop "FREE INTERACTIVE TECHNOLOGY " "Coordinate Transformation Matrix" 0 -1 1 1 0 0 0 0 1
-/home/ddmallplaza/update/monitor_apache.sh && google-chrome http://localhost/$1 --kiosk --incognito --proxy-server=127.0.0.1:3128 --disk-cache-dir=/dev/null --disable-translate
+/home/ddmallplaza/update/pre_apache.sh && google-chrome http://localhost/$1 --kiosk --incognito --proxy-server=127.0.0.1:3128 --disk-cache-dir=/dev/null --disable-translate
